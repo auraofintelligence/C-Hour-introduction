@@ -320,6 +320,20 @@
   ],
   "links": [
     {
+      "id": "aura-overview",
+      "title": "Aura of Intelligence overview",
+      "url": "https://auraofintelligence.github.io/",
+      "context": "The broader Aura vision and overview. Added by Luke on 24 September 2026 to accompany the Matrix Studio implementation link.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "aura-matrix-studio-live",
+      "title": "Aura Matrix Studio implementation",
+      "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
+      "context": "Explore the developing browser application alongside the larger Aura of Intelligence overview. The source repository linked in the original plan is retained separately below.",
+      "sourceStatus": "context"
+    },
+    {
       "id": "rId8",
       "relationshipId": "rId8",
       "title": "Community Ledger",

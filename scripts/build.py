@@ -76,7 +76,9 @@ for p in chapters:
         if s.get('cards'):body+='<div class="section-cards">'+''.join(f'<article class="glow-card text-card"><h3>{esc(c["title"])}</h3>{para(c["text"])}</article>' for c in s['cards'])+'</div>'
         for step in s.get('steps',[]):body+=f'<div class="step"><h3>{esc(step["title"])}</h3>{para(step["text"])}</div>'
         if s.get('links'):body+='<div class="link-list">'+''.join(f'<a href="{esc(link["url"])}">{esc(link["label"])} ↗</a>' for link in s['links'])+'</div>'
-        if i==0 and len(sections)>1:
+        if i==0 and p['slug']=='people-and-purpose':
+            body+='<div class="luke-portraits"><figure><img src="assets/images/luke-formal.jpeg" alt="Luke Nathan Hayes wearing glasses and a blue collared shirt" width="1080" height="1350" loading="lazy" decoding="async"><figcaption>Luke Nathan Hayes</figcaption></figure><figure><img src="assets/images/luke-in-office.jpeg" alt="Luke with long hair at his desk in his office" width="1152" height="2048" loading="lazy" decoding="async"><figcaption>Luke in his office</figcaption></figure></div><p class="portrait-credit">Photographs supplied by Luke.</p>'
+        elif i==0 and len(sections)>1:
             art={'sensorium':'software','community-hours':'reciprocity','food-and-wellbeing':'choose-an-adventure','mutual-futures':'growing-together','software':'sensorium','pilot':'people-and-purpose'}.get(p['slug'],'home')
             body+='<figure class="wide-figure">'+image(art,'GenAI concept illustration of the connections explored in this chapter')+'<figcaption class="figure-note">GenAI concept illustration. The arrangements shown are imagined possibilities.</figcaption></figure>'
         body+='</section>'

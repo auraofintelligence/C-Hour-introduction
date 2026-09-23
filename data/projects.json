@@ -49,6 +49,14 @@
   },
   {
     "title": "Aura of Intelligence",
+    "url": "https://auraofintelligence.github.io/",
+    "description": "Explore the wider Aura vision and how its ideas connect. Start here for the larger picture, then visit Aura Matrix Studio to explore an implementation.",
+    "theme": "Personal intelligence and place",
+    "status": "Public overview and concept guide",
+    "repo": "https://github.com/auraofintelligence/auraofintelligence.github.io"
+  },
+  {
+    "title": "Aura Matrix Studio",
     "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
     "description": "Explore the current Aura interface for personal knowledge, relationships, interests, learning and matrix views. The complete C-hour agent and Sensorium journey remains proposed.",
     "theme": "Personal intelligence and place",

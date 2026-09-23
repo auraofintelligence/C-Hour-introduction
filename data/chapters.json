@@ -154,7 +154,11 @@
         "paragraphs": [],
         "links": [
           {
-            "label": "Explore Aura of Intelligence",
+            "label": "Aura of Intelligence overview",
+            "url": "https://auraofintelligence.github.io/"
+          },
+          {
+            "label": "Explore Aura Matrix Studio",
             "url": "https://auraofintelligence.github.io/aura-matrix-studio/"
           },
           {
@@ -485,7 +489,11 @@
         "paragraphs": [],
         "links": [
           {
-            "label": "Try the developing Aura interface",
+            "label": "Aura of Intelligence overview",
+            "url": "https://auraofintelligence.github.io/"
+          },
+          {
+            "label": "Try Aura Matrix Studio",
             "url": "https://auraofintelligence.github.io/aura-matrix-studio/"
           },
           {
