@@ -1,0 +1,21 @@
+{
+  "tool": "Built-in image_gen",
+  "created": "2026-09-24",
+  "assets": [
+    {
+      "file": "assets/images/home.webp",
+      "role": "Homepage hero",
+      "prompt": "Use case: stylized-concept. Asset type: full width homepage hero for C-Hour, a joyful community future on Minjerribah Australia. Generate a stunning cinematic wide landscape illustration, 1536x1024 or 1792x1024, highly crafted editorial solarpunk with tactile 3D details. A sweeping subtropical Australian island bay at golden blue hour, turquoise water, eucalyptus and pandanus landscape, softly glowing circular community pavilion and long shared table in centre-right, intergenerational people gardening, sharing food, repairing, learning together; warm coral and amber human activity, delicate mint illuminated pathways connecting small scenes, elegant contemporary low rise architecture fitted to landscape. The image is aspirational concept art, no depiction of existing facilities or identifiable real people. Main visual detail right and centre; calmer atmospheric deep petrol sky upper left can support white page headline. Rich luminous teal, apricot, coral, soft gold, pearlescent lights. Human joyful feeling, sophisticated and inviting, no corporate skyline, no fantasy planets, no floating text, no lettering, no charts, no logos, no currency tokens. Panoramic composition with beautiful depth and atmospheric ocean horizon. Fine photoreal painterly quality, award-calibre environmental concept illustration. No frame.",
+      "caption": "GenAI concept artwork. An imagined coastal community future, not existing facilities."
+    },
+    {
+      "file": "assets/images/logo.png",
+      "derivatives": [
+        "favicon.png",
+        "apple-touch-icon.png"
+      ],
+      "role": "C-Hour identity",
+      "prompt": "Use case: logo-brand. Asset type: favicon and C-Hour community logo. A single bold sculptural open letter C formed from one smooth luminous mint teal curved ribbon, holding a tiny warm coral sun dot within the opening, evoking community circle and shared time. Thick recognisable simple silhouette for 32px favicon. Beautiful subtly iridescent enamel with dimensional pearlescent highlights. Deep midnight petrol solid background. Centred square icon with generous margins. Sophisticated joyful futuristic community identity. No clock hands, no extra text or words, no thin strokes, no border, no coins, no complex details. Square 1024x1024."
+    }
+  ]
+}
