@@ -1,0 +1,5 @@
+references/originals/** -text
+*.png binary
+*.webp binary
+*.pdf binary
+*.docx binary
