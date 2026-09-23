@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Shared Table",
+    "url": "https://auraofintelligence.github.io/shared-table-initiative/",
+    "description": "Explore food circles, growing, pantry planning and gatherings as a practical doorway into contribution and friendship.",
+    "theme": "Food and everyday life",
+    "status": "Public planning site and browser tools",
+    "repo": "https://github.com/auraofintelligence/shared-table-initiative"
+  },
+  {
+    "title": "Mate Ecosystem",
+    "url": "https://auraofintelligence.github.io/mate-ecosystem/",
+    "description": "Explore Garden Mate, Kitchen Mate, Fermentation Mate and Event Mate as proposed helpers from growing and cooking to preservation and gatherings.",
+    "theme": "Food and everyday life",
+    "status": "Public concept report; no connected AI service",
+    "repo": "https://github.com/auraofintelligence/mate-ecosystem"
+  },
+  {
+    "title": "Oceania Healthy De-Slop Co-ops",
+    "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
+    "description": "Connect everyday wellbeing, local cooperative possibilities and personal data stewardship across Oceania. Clinics, facilities and specialist research remain proposals.",
+    "theme": "Food and everyday life",
+    "status": "Public proposal and research gateway",
+    "repo": "https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops"
+  },
+  {
+    "title": "Community Ledger",
+    "url": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "description": "See how projects, contribution and support can be connected. Read older C-hour material alongside the current non-monetary definition.",
+    "theme": "Contribution and participation",
+    "status": "Public project ledger and concept pathway",
+    "repo": "https://github.com/auraofintelligence/strange-but-true"
+  },
+  {
+    "title": "Quandamooka Country Events Engine",
+    "url": "https://auraofintelligence.github.io/quandamooka-country-events-engine/",
+    "description": "Find source-linked events and explore tools for planning, gatherings, stories and aftercare. A listing or plan does not itself confirm a host or permission.",
+    "theme": "Contribution and participation",
+    "status": "Public event catalogue and planning prototype",
+    "repo": "https://github.com/auraofintelligence/quandamooka-country-events-engine"
+  },
+  {
+    "title": "Straddie Noticeboard Network",
+    "url": "https://auraofintelligence.github.io/straddie-noticeboard-network/",
+    "description": "Explore how local notices and screens could help people find activities while publishers retain their own identity. Its sample catalogue is not an enrolled network.",
+    "theme": "Contribution and participation",
+    "status": "Public prototype with sample publisher information",
+    "repo": "https://github.com/auraofintelligence/straddie-noticeboard-network"
+  },
+  {
+    "title": "Aura of Intelligence",
+    "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
+    "description": "Explore the current Aura interface for personal knowledge, relationships, interests, learning and matrix views. The complete C-hour agent and Sensorium journey remains proposed.",
+    "theme": "Personal intelligence and place",
+    "status": "Developing browser-local application",
+    "repo": "https://github.com/auraofintelligence/aura-matrix-studio"
+  },
+  {
+    "title": "Straddie Digital Twin Explainer",
+    "url": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/",
+    "description": "Follow the path from phone scanning to a possible community digital twin, including plain-language explanations of the Sensorium and local shared computing.",
+    "theme": "Personal intelligence and place",
+    "status": "Public explainer distinguishing built and proposed work",
+    "repo": "https://github.com/auraofintelligence/straddie-digital-twin-explainer"
+  },
+  {
+    "title": "Straddie twin prototype",
+    "url": "https://auraofintelligence.github.io/straddie-twin-prototype/",
+    "description": "Explore an island map, existing panorama records and an illustrative transport exercise. It has no live observation feed and is not a complete reconstructed island.",
+    "theme": "Personal intelligence and place",
+    "status": "Working browser prototype with limited simulations",
+    "repo": "https://github.com/auraofintelligence/straddie-twin-prototype"
+  },
+  {
+    "title": "Ready S.E.T. Co-op Cultural Intelligence Node",
+    "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
+    "description": "Explore one local computing node in Dunwich, useful workloads, learning, cultural collaboration and the people who would operate it. The proposed rack is not installed infrastructure.",
+    "theme": "Shared capability",
+    "status": "Public proposal and browser-local planning tools",
+    "repo": "https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node"
+  },
+  {
+    "title": "Ready S.E.T. Co-op Trust Hub",
+    "url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/",
+    "description": "Explore shared employment, learning, mentoring, equipment and administration around local projects. Ready S.E.T. means Sustainable Employment and Training; the cooperative is proposed.",
+    "theme": "Shared capability",
+    "status": "Public workbench for a proposed cooperative",
+    "repo": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub"
+  },
+  {
+    "title": "Minjerribah Site and Service Ideas",
+    "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/",
+    "description": "Explore 7 Mile, Ballow Road, Claytons Road and connected ideas for living, care, culture, making and research. Site access, partnerships and decisions remain with the relevant people.",
+    "theme": "Shared capability",
+    "status": "Public workbench for site and service proposals",
+    "repo": "https://github.com/auraofintelligence/multi-site-Minjerribah-network"
+  },
+  {
+    "title": "Straddie Clean Energy Superpower",
+    "url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
+    "description": "Explore energy generation, storage, heat, water and infrastructure questions that could support a more capable island community. The atlas is not an engineered installation plan.",
+    "theme": "Shared capability",
+    "status": "Public options atlas and research workbench",
+    "repo": "https://github.com/auraofintelligence/straddie-clean-energy-superpower"
+  },
+  {
+    "title": "Mutual Futures",
+    "url": "https://auraofintelligence.github.io/mutual-futures/",
+    "description": "Explore willing business succession, shared ownership, Try Everything Once, Intermittent Retirement, Universal Intelligence and more choice across a lifetime.",
+    "theme": "Work, ownership and learning",
+    "status": "Public proposal with browser-local planning tools",
+    "repo": "https://github.com/auraofintelligence/mutual-futures"
+  },
+  {
+    "title": "500 Queens Venture Capital",
+    "url": "https://auraofintelligence.github.io/500-Queens-VC-2026/",
+    "description": "Explore women’s enterprise leadership, mentorship and proposed access to backing. AI Queen profiles are creative mentor concepts, and the site does not operate a live investment fund.",
+    "theme": "Work, ownership and learning",
+    "status": "Public proposal with fictional AI mentor concepts",
+    "repo": "https://github.com/auraofintelligence/500-Queens-VC-2026"
+  },
+  {
+    "title": "Moreton Bay Community Wealth and Mutuals",
+    "url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/",
+    "description": "Explore shared assets, mutual care, Indigenous data sovereignty and community wealth. Financial arrangements have their own development path and do not back a C-hour balance.",
+    "theme": "Work, ownership and learning",
+    "status": "Public concept and research doorway",
+    "repo": "https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals"
+  },
+  {
+    "title": "Stradbroke Grants Lab",
+    "url": "https://auraofintelligence.github.io/stradbroke-grants-lab/",
+    "description": "Connect a local project with possible funding and partner pathways. Source dates, eligibility and readiness need checking for the particular activity.",
+    "theme": "Work, ownership and learning",
+    "status": "Public funding research workbench",
+    "repo": "https://github.com/auraofintelligence/stradbroke-grants-lab"
+  },
+  {
+    "title": "P4A civic workbench",
+    "url": "https://p4a.xyz/",
+    "description": "Explore civic questions, public documents, simulation and constitutional literacy. Participation in C-hours does not require support for P4A or any political party.",
+    "theme": "Civic learning across Oceania",
+    "status": "Public civic prototype; proposed movement",
+    "repo": "https://github.com/auraofintelligence/p4a-xyz-cinema"
+  },
+  {
+    "title": "P4A Oceania Cinema",
+    "url": "https://auraofintelligence.github.io/p4a-oceania-cinema/",
+    "description": "Explore how civic learning and locally shaped cooperation might connect across Oceania. Older C-hour mechanisms are read through the current planning edition.",
+    "theme": "Civic learning across Oceania",
+    "status": "Public civic idea lab",
+    "repo": "https://github.com/auraofintelligence/p4a-oceania-cinema"
+  },
+  {
+    "title": "Native Nations of the World",
+    "url": "https://auraofintelligence.github.io/p4a-native-nations-cinema/",
+    "description": "Explore source-led discussions of Indigenous data sovereignty, computing and reciprocity. The workbench does not speak for a nation or grant permission on its behalf.",
+    "theme": "Civic learning across Oceania",
+    "status": "Invitational public lab; no representative authority",
+    "repo": "https://github.com/auraofintelligence/p4a-native-nations-cinema"
+  },
+  {
+    "title": "GAJRA Earth",
+    "url": "https://auraofintelligence.github.io/gajra-earth-claude-build/",
+    "description": "Explore the Global Association for Joyful Responsible Abundance on Earth as a possible network of locally shaped projects and associations, with a clear distinction between its archive and current intent.",
+    "theme": "Civic learning across Oceania",
+    "status": "Preserved public concept; association remains unregistered",
+    "repo": "https://github.com/auraofintelligence/gajra-earth-claude-build"
+  },
+  {
+    "title": "Minjerribah Screen and Media Network",
+    "url": "https://auraofintelligence.github.io/minjerribah-screen-media-network/",
+    "description": "Connect stories, skills, screens, local information and practical media activities. The website is an invitation to collaborate, not a confirmed island-wide organisation.",
+    "theme": "Stories and creative participation",
+    "status": "Public collaboration proposal",
+    "repo": "https://github.com/auraofintelligence/minjerribah-screen-media-network"
+  },
+  {
+    "title": "Spirit Animal Podcast",
+    "url": "https://auraofintelligence.github.io/spirit-animal-podcast/",
+    "description": "Explore conversations about values and experience, with guests choosing their own animal and meaning. Production tools help plan and record a conversation without submitting private notes.",
+    "theme": "Stories and creative participation",
+    "status": "Public show concept and browser-local production tools",
+    "repo": "https://github.com/auraofintelligence/spirit-animal-podcast"
+  },
+  {
+    "title": "Film Club Documentary Builders",
+    "url": "https://auraofintelligence.github.io/film-club-documentary-builders/",
+    "description": "Keep research, source trails, interview preparation, scene evidence and screening notes organised. A useful starting point for a community story made with its participants.",
+    "theme": "Stories and creative participation",
+    "status": "Working browser-local planning toolkit",
+    "repo": "https://github.com/auraofintelligence/film-club-documentary-builders"
+  },
+  {
+    "title": "Grain by Grain",
+    "url": "https://auraofintelligence.github.io/grain-by-grain-documentary/",
+    "description": "Follow a long-horizon film ambition connecting place, materials, possible futures and seven-generation civilisation building. Its imagined infrastructure is part of the treatment.",
+    "theme": "Stories and creative participation",
+    "status": "Public documentary treatment and planning site",
+    "repo": "https://github.com/auraofintelligence/grain-by-grain-documentary"
+  },
+  {
+    "title": "DaVinci Resolve Automations",
+    "url": "https://auraofintelligence.github.io/davinci-resolve-automations/",
+    "description": "Explore reusable editing instructions, visual bundles and AI-assisted production. The guide identifies which proposed controls still need testing on the editing computer.",
+    "theme": "Stories and creative participation",
+    "status": "Public production guide; editor integration needs testing",
+    "repo": "https://github.com/auraofintelligence/davinci-resolve-automations"
+  },
+  {
+    "title": "Infinity Engine",
+    "url": "https://auraofintelligence.github.io/infinity-engine/",
+    "description": "Explore a model-agnostic path from song ideas to lyric videos, comics and other creative outputs, with human direction and review throughout the production process.",
+    "theme": "Stories and creative participation",
+    "status": "Development pipeline and public project documentation",
+    "repo": "https://github.com/auraofintelligence/infinity-engine"
+  },
+  {
+    "title": "Project Atlas",
+    "url": "https://auraofintelligence.github.io/project-atlas/",
+    "description": "Find the wider collection and the evidenced relationships between projects. Use it for discovery, then check the destination project’s own status and sources.",
+    "theme": "Explore the wider network",
+    "status": "Working public project map",
+    "repo": "https://github.com/auraofintelligence/project-atlas"
+  },
+  {
+    "title": "Strange But True Field Library",
+    "url": "https://auraofintelligence.github.io/strange-but-true-field-library/",
+    "description": "Follow project sources and relationships when an idea needs deeper investigation. The library helps locate evidence; it does not independently validate each claim.",
+    "theme": "Explore the wider network",
+    "status": "Public source and repository research index",
+    "repo": "https://github.com/auraofintelligence/strange-but-true-field-library"
+  }
+]

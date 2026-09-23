@@ -1,0 +1,1012 @@
+[
+  {
+    "slug": "why-now",
+    "title": "Why begin now",
+    "shortTitle": "Why now",
+    "description": "AI could give us more freedom, more useful capability and more time for one another. The choices we make together will shape that future.",
+    "hero": "why-now.webp",
+    "sections": [
+      {
+        "title": "A useful beginning",
+        "paragraphs": [
+          "Artificial intelligence is opening new ways to learn, create, organise and work. This plan connects that growing capability with Mutual Futures: shared ownership, more possible lives and a productive community in which people can learn throughout life, try different work and make room for care, travel and rest. Jobs and Skills Australia identifies substantial potential for AI to assist people in their work, with results shaped by how organisations adopt it and develop their practices. [E1]",
+          "Australia already has growing AI businesses and research capability. The National AI Centre and CSIRO describe an ecosystem that combines adoption of overseas technology with Australian development, with much activity concentrated in cities. Their research also identifies increasing demand for AI skills. [E2] Trusted places offer a natural starting point: community organisations, clubs, schools, libraries, workplaces and local gatherings.",
+          "The urgency is practical. Skills take time to develop. Relationships take time to earn. Decisions about ownership, data and access become harder to change once systems are established. Communities that begin now can help decide what AI is for, retain useful local knowledge and develop their own ability to build and repair things."
+        ],
+        "links": [
+          {
+            "label": "Source E1",
+            "url": "references.html#E1"
+          },
+          {
+            "label": "Source E2",
+            "url": "references.html#E2"
+          }
+        ]
+      },
+      {
+        "title": "Make human contribution visible",
+        "paragraphs": [
+          "As AI expands what we can achieve, we need better ways to recognise the human contribution that makes shared abundance possible. People pass on life experience, care for one another, create art, restore Country, mentor emerging talent and bring ambitious ideas to life. Elders bring authority through their experience, relationships and judgement. The reciprocity ledger makes these contributions visible, connecting the time people give with the knowledge, confidence and capability a community develops together.",
+          "As AI makes some outputs faster and cheaper to produce, the contribution record preserves the human time and responsibility involved. The outcome record shows what changed. Neither a large pile of generated content nor a large total of hours is enough on its own."
+        ]
+      },
+      {
+        "title": "More freedom across a lifetime",
+        "paragraphs": [
+          "Universal Intelligence is a central aim: practical access to AI, learning, creation and simulation, together with the ability to understand and change the systems we use. Universal Adequate Income is the companion aim of material sufficiency through changing stages of life. Mutual Futures connects these with a productive base of businesses, shared services and skills. The financial arrangements need to be developed in their own right; C-hours recognise the voluntary contribution that helps this wider society flourish. [P1]",
+          "Try Everything Once opens supported routes into different kinds of work. Just-in-time learning helps someone acquire the knowledge needed for the next real task. Intermittent Retirement makes rest, care, travel and further learning part of a life that can have many chapters. These ideas give the transformation a human direction: more agency, broader capability and time to enjoy what we build.",
+          "A live, useful pilot offers a place to begin while the larger ideas develop. Worthwhile work and honest accounts of what happens would give us something real to learn from together."
+        ],
+        "links": [
+          {
+            "label": "Source P1",
+            "url": "references.html#P1"
+          }
+        ]
+      },
+      {
+        "title": "The everyday scale of contribution",
+        "paragraphs": [
+          "The supplied paper Unpaid Work, C-Hours, Societal Costs describes an incomplete ledger: much of the work that sustains households, relationships and community life is missing from ordinary financial accounts. Its sections 1.1 to 1.4 examine the scale of unpaid work, its uneven distribution and the consequences of neglecting it. That is a central foundation for this plan, with the statistical context updated below. [P2]",
+          "In Australia's 2024 Time Use Survey, people aged 15 and over who undertook unpaid work averaged 4 hours 25 minutes a day on domestic activities, looking after children, caring for adults and volunteering. Among participants, females averaged 4 hours 53 minutes and males 3 hours 52 minutes. Survey changes mean these figures are not fully comparable with the older 2020 to 2021 figures used in the supplied paper. [E4]",
+          "The International Labour Organization's 2018 report drew on 64 countries representing two thirds of the world's working-age population. It estimated 16.4 billion hours of unpaid care work every day, equivalent to about two billion people working eight hours daily. This is a historical estimate of an immense existing contribution, not a forecast of C-hours or a current global census. [E5]",
+          "The societal stakes are also substantial. The World Health Organization estimates that depression and anxiety account for 12 billion lost working days and US$1 trillion in lost productivity annually worldwide. [E6] This gives scale to one area of societal cost discussed in the supplied paper. It does not establish that unrecognised unpaid work causes all those losses, or that a reciprocity ledger would recover them. Stronger relationships, shared care and meaningful participation are aims to pursue and evaluate in their own right."
+        ],
+        "links": [
+          {
+            "label": "Source P2",
+            "url": "references.html#P2"
+          },
+          {
+            "label": "Source E4",
+            "url": "references.html#E4"
+          },
+          {
+            "label": "Source E5",
+            "url": "references.html#E5"
+          },
+          {
+            "label": "Source E6",
+            "url": "references.html#E6"
+          }
+        ]
+      },
+      {
+        "title": "Everyone, everywhere, every day",
+        "paragraphs": [
+          "The ambition is for everyone, everywhere, to be able to earn C-hours every day of their lives through meaningful contribution. Much of that contribution is already happening: raising children, supporting family, maintaining a shared home, helping friends, passing on skills and sustaining community life. A rostered event is one doorway into this system; everyday life is its much larger setting.",
+          "The hope is recognition that feels easy, inclusive and wholesome. Existing contribution matters without an organisation first inventing an activity for it. Households, carers, friends and community groups bring different experiences of giving and receiving. Those experiences would help shape how recognition works, including what feels intrusive, burdensome or simply unnecessary.",
+          "The aim is a culture in which contribution is noticed and appreciated throughout life. Giving, receiving, resting and returning are ordinary rhythms of life. The question for the ledger is how to fit around them gracefully, without making a daily quota or a transaction out of a relationship."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "JSA: AI exposure and transition",
+            "url": "references.html#E1"
+          },
+          {
+            "label": "Australian AI ecosystem",
+            "url": "references.html#E2"
+          },
+          {
+            "label": "ABS time-use evidence",
+            "url": "references.html#E4"
+          },
+          {
+            "label": "ILO unpaid-care estimate",
+            "url": "references.html#E5"
+          },
+          {
+            "label": "WHO mental health at work",
+            "url": "references.html#E6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "people-and-purpose",
+    "title": "People and purpose",
+    "shortTitle": "People and purpose",
+    "description": "An invitation from Minjerribah to shape a more joyful, responsible and abundant everyday life together.",
+    "hero": "people-and-purpose.webp",
+    "sections": [
+      {
+        "title": "The person behind the invitation",
+        "paragraphs": [
+          "Luke Nathan Hayes is based in Amity on Minjerribah and is developing Aura of Intelligence and a collection of connected projects in community participation, media, AI, health research and regenerative enterprise. The breadth has a common purpose: help people understand themselves, choose their direction and build Joyful Responsible Abundance together."
+        ]
+      },
+      {
+        "title": "An invitation people can reshape",
+        "paragraphs": [
+          "Joyful Responsible Abundance means a life worth enjoying, responsibility for our effects on others and useful capacity that more people can share. A shared meal, a film afternoon, a garden project or an introduction to AI could be a worthwhile beginning. Further interests might lead towards community science, cooperative enterprise or collaboration across Oceania.",
+          "This is a malleable thought experiment becoming practical through proposed pilots. An unexpected use, an objection or a better idea may change the design. Participation is also authorship: people bring their own knowledge of what helps, what is missing and what creates unnecessary effort.",
+          "Someone arriving stressed, sceptical, overworked or short of money does not owe this idea their trust or another unpaid commitment. Trust would have to grow through useful experiences, honest responses and changes made because people spoke up. The pilot, partnerships, facilities and growth stages remain proposals unless specifically evidenced otherwise."
+        ]
+      },
+      {
+        "title": "Personal tools and shared purpose",
+        "paragraphs": [
+          "Aura of Intelligence is the proposed personal layer. It lets a person organise a digital representation of their body, mind, interests, knowledge and intentions, with control over what they keep private and what they share. GAJRA Earth, the Global Association for Joyful Responsible Abundance on Earth, is the proposed association network through which people and communities can collaborate. At this stage, GAJRA Earth is an unregistered concept, not an established global institution.",
+          "These projects begin with Luke’s ideas and experiments. Other people are invited to choose, challenge, adapt and add their own. The idea is a grassroots patchwork, with each community contributing something distinctive. Compatible tools and shared learning might connect those pieces while leaving plenty of room for different worldviews and ways of doing things."
+        ]
+      },
+      {
+        "title": "Begin with real relationships",
+        "paragraphs": [
+          "Minjerribah offers a place to begin with real relationships and real needs. The proposed pilot connects the island with willing organisations across Redlands and the Oodgeroo and Bowman areas. Luke reports that, at his meeting with the state member for Oodgeroo, she expressed interest in connecting him with volunteer organisations to discuss a pilot. That is an opening for conversations, not a confirmed partnership or government commitment.",
+          "On Quandamooka Country, the people whose knowledge, stories, places and practices are involved bring their own authority and relationships to the conversation. The invitation is to develop activities with them, taking their lead about what they wish to share. This plan does not speak for them or confer permission on their behalf."
+        ]
+      },
+      {
+        "title": "There are many ways to begin",
+        "paragraphs": [
+          "Our invitation is broad. A young person might begin through music or games. A visitor might join a local project during their holiday. A carer might share practical experience. A programmer might help a club organise its records. An organisation might host an activity it already wants to run. Everyone needs an understandable first step and a reason to come back."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore Aura of Intelligence",
+            "url": "https://auraofintelligence.github.io/aura-matrix-studio/"
+          },
+          {
+            "label": "Explore the wider project map",
+            "url": "projects.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "choose-an-adventure",
+    "title": "Choose your own adventure",
+    "shortTitle": "Your adventure",
+    "description": "Begin with something you enjoy, something you already contribute or something that would make your day easier.",
+    "hero": "choose-an-adventure.webp",
+    "sections": [
+      {
+        "title": "Begin with your life",
+        "paragraphs": [
+          "“What would you enjoy doing?” offers a starting question. Making and fixing, food and gardens, stories and music, nature and Country, health and connection, or learning and technology are possible doorways. Someone arriving with an entirely different idea might open another.",
+          "A first encounter might be as modest as help with something already making life difficult. Someone arriving tired or sceptical brings valuable knowledge about what this idea is missing. The question is what would make their day easier or more enjoyable, including whether this is useful to them at all. Learning the ecosystem, sharing a personal history or taking on extra unpaid work is not the invitation."
+        ]
+      },
+      {
+        "title": "A first conversation to try",
+        "paragraphs": [
+          "Here is one possible first encounter to try and reshape with participants. It begins through an intelligent conversation, perhaps reached through a notice board, a story, a friend, a host or a personal Aura. Everyday care and informal contribution belong in this exploration alongside organised activities. The intended experience uses agent interactions rather than enrolment forms or routine timesheets."
+        ],
+        "steps": [
+          {
+            "title": "Begin with an interest",
+            "text": "A conversation about what you enjoy, already contribute or would like to try might lead to an adventure. Useful information would include who is involved, timing, support, costs and whether the work is voluntary or paid."
+          },
+          {
+            "title": "Explore the information involved",
+            "text": "You and the agent would work through what a proposed activity draws on and what you want kept private or shared. A phone or a supported conversation is a starting possibility; a wearable is an optional addition. Participants’ experiences would shape how these conversations become understandable and effortless."
+          },
+          {
+            "title": "Enjoy taking part",
+            "text": "Within the boundaries you choose, the agent might draw on a conversation, activity information or device observations to help recognise the contribution. Where another person’s judgement adds something useful, a host, peer or recipient might help with confirmation. The pilot is a place to discover when that helps and when it becomes needless administration."
+          },
+          {
+            "title": "Reflect and follow your curiosity",
+            "text": "A short conversation might bring together what happened, any correction you want to make and the community’s chosen thanks. Another interest, a continuing project or a break are all ordinary next chapters. The sequence itself is open to improvement."
+          }
+        ]
+      },
+      {
+        "title": "One afternoon, many possible paths",
+        "paragraphs": [
+          "Consider an illustrative visitor journey. A visitor hears about a shared-table and garden afternoon and asks their agent to help them join. It explains the activity and offers to prepare a contribution record using the agreed session information. Their private location history and health information remain outside that agreement. They help prepare food, learn a preservation technique and meet a filmmaker documenting the project. Afterwards, they check their contribution through a short conversation and choose to help edit a film from home. Another participant follows an interest in garden sensors; another discovers they enjoy hosting. Any recording or publication of their story has its own consent.",
+          "These are different paths through the same community experience. The food supports a gathering; the gathering creates relationships; the story invites more people; the observations improve the garden; the records help the next host. Each contribution can build practical capacity, resilience and regeneration. Actual improvements are described and measured where possible, rather than inferred from the hour count."
+        ]
+      },
+      {
+        "title": "Make room for fun and quiet contribution",
+        "paragraphs": [
+          "Shared challenges, discoveries, seasonal adventures, skill milestones and celebrations offer playful possibilities. Participants would bring their own ideas about what is enjoyable, meaningful or off-putting. Quiet contribution matters too. The ambition is recognition that adds joy without making available time a measure of someone’s worth.",
+          "For tourism, the invitation is to contribute meaningfully to Country and community while enjoying a visit. Local people and visitors would work out what fits the place, the relationships and the capacity available. Skills, friendships and continuing projects might travel home with them."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore the Shared Table",
+            "url": "https://auraofintelligence.github.io/shared-table-initiative/"
+          },
+          {
+            "label": "Browse the Events Engine",
+            "url": "https://auraofintelligence.github.io/quandamooka-country-events-engine/"
+          },
+          {
+            "label": "Explore the Spirit Animal Podcast",
+            "url": "https://auraofintelligence.github.io/spirit-animal-podcast/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "community-hours",
+    "title": "What a Community-Hour records",
+    "shortTitle": "Community hours",
+    "description": "One verified hour of voluntary human contribution is one C-hour. The record helps recognise what people give and what grows from it.",
+    "hero": "community-hours.webp",
+    "sections": [
+      {
+        "title": "One hour, recognised",
+        "paragraphs": [
+          "A C-hour is a record of time freely given to a recognised community contribution. One verified hour is one C-hour. Different kinds of contribution have equal time recognition. The accompanying description preserves what the person did, what they learned and who benefited.",
+          "An initial software sketch would record time, including contributions shorter than an hour, through intelligent conversation and personally chosen sources. Those sources might include someone’s own account, shared activity details, a phone, a wearable or another participant’s confirmation. How observations support recognition is a pilot question: presence alone tells us little about what someone contributed."
+        ]
+      },
+      {
+        "title": "Care already woven into life",
+        "paragraphs": [
+          "Recurring care and informal support deserve particular attention because much of their value is already woven into daily life. Carers, households and the people receiving support would help explore what recognition feels worthwhile and what information is enough. An agent might remember a personally chosen arrangement and ask only when something is unclear. Human verification, where appropriate, would grow from these conversations rather than an assumption that every act needs a signature."
+        ]
+      },
+      {
+        "title": "A record people can understand and correct",
+        "paragraphs": [
+          "What would make a contribution record useful to the people involved? A starting sketch includes what happened, roughly when and for how long, how someone wants to be identified, what supports the account and who they want to share it with. These are prompts for developing the agent interaction together, not a settled list imposed on everyone. One possibility is to share a confirmation while keeping its supporting detail in the person’s private environment. Experiences of care, culture and everyday contribution would help reveal what is useful to record and what is better left unrecorded.",
+          "The record belongs in a conversation with the people it concerns. What would make it easy to notice an error, revise an account or work through a disagreement? Overlapping care and other activities raise another useful question: how might a record recognise several responsibilities without presenting one elapsed hour as several? The initial distinction between a proposed and a confirmed entry is an idea to test, along with ways of showing uncertainty. The Sensorium chapter explores the personal sovereignty and consent questions behind this work."
+        ]
+      },
+      {
+        "title": "Human effort, shared resources and results",
+        "paragraphs": [
+          "AI could help prepare an activity, translate instructions, organise records and draft a summary. The C-hour records the human time actually contributed. Machine running time and quantities of generated material are recorded separately where useful. A paid shift is paid work; it is not relabelled as voluntary service.",
+          "The reciprocity ledger connects three kinds of record while keeping their meaning clear.",
+          "This separation makes the ledger useful to participants, hosts and potential supporters. It recognises contribution without putting a price on the hour, and it lets people assess results without pretending that all activities produce the same outcome."
+        ],
+        "cards": [
+          {
+            "title": "Contribution",
+            "text": "Who freely contributed time, and what did they do? For example, two people each helped for one hour. That records two human hours of contribution."
+          },
+          {
+            "title": "Money and resources",
+            "text": "How was the activity funded, and what did it use? For example, a grant paid for supplies and a paid coordinator. Those financial records remain separate from the hours."
+          },
+          {
+            "title": "Outcomes and learning",
+            "text": "What changed, and how do we know? For example, a repaired item works again and a participant can now perform the repair. The outcome adds meaning to the contribution."
+          }
+        ]
+      },
+      {
+        "title": "Carry experience between communities",
+        "paragraphs": [
+          "A contribution history travelling between willing communities is an appealing possibility. What would make it understandable and trustworthy elsewhere, while leaving the person in charge of sharing it? Each community would bring its own approach to welcome, reciprocity and thanks. Portability here does not imply a financial debt or a promise of an equivalent benefit."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore the Community Ledger",
+            "url": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+          },
+          {
+            "label": "Unpaid work and the C-hour background",
+            "url": "references.html#P2"
+          },
+          {
+            "label": "Explore personal control",
+            "url": "sensorium.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "reciprocity",
+    "title": "Reciprocity and community thanks",
+    "shortTitle": "Reciprocity",
+    "description": "Communities choose how to recognise, thank and support one another, without putting a price on the hour.",
+    "hero": "reciprocity.webp",
+    "sections": [
+      {
+        "title": "Thanks that means something",
+        "paragraphs": [
+          "Communities have long expressed thanks through hospitality, recognition, shared experiences, introductions, encouragement and help in return. The C-hour explores whether a shared record might enrich those relationships. The meaning and form of reciprocity come from the people practising it.",
+          "Acknowledgement at a gathering, a shared learning experience, a celebration, recognition of a skill or mutual help are possibilities to discuss. Some thanks may be public and others deeply personal. What feels meaningful is a question for those involved. Enjoyable and tangible reciprocity has a place here without assigning a monetary value to each hour."
+        ]
+      },
+      {
+        "title": "Recognition without a price",
+        "paragraphs": [
+          "The practical distinction is between a community choosing how to say thanks and a system calculating what an hour can buy. A fixed dollar rate, cash-out mechanism, tradeable balance or financial claim would change the meaning of the C-hour. Those mechanisms are excluded. A badge, invitation or locally chosen reciprocal opportunity does not automatically introduce them."
+        ]
+      },
+      {
+        "title": "A voluntary record, with a limited purpose",
+        "paragraphs": [
+          "Some may describe this as a light form of social credit: a voluntary record of contribution and community appreciation. Here, it has a specific scope. It is not a universal score of a person, a compulsory behaviour rating or a condition for ordinary rights and essential care. Its value comes from willing relationships and useful recognition."
+        ]
+      },
+      {
+        "title": "Shape the local approach together",
+        "paragraphs": [
+          "Early conversations might explore what people already appreciate about local reciprocity, what they would like to try and what would make an offer clear and fair. Those discussions could become a short, evolving account of the community’s approach, explained through its agents. Availability, disagreements and changing circumstances would offer reasons to revisit it together.",
+          "Where a proposed reward involves a commercial benefit, employment arrangement or substantial material entitlement, assess that particular arrangement before promising it. Do not invent a dollar value for C-hours as a shortcut. Keep any actual funding, paid work and provision of services in their proper records.",
+          "The hope is that reciprocity leaves people feeling welcome and appreciated, with room for the different ways they contribute and the times when they need support themselves."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "What one C-hour records",
+            "url": "community-hours.html"
+          },
+          {
+            "label": "Read the current planning edition",
+            "url": "references.html#P3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "food-and-wellbeing",
+    "title": "Food, wellbeing and everyday life",
+    "shortTitle": "Food and wellbeing",
+    "description": "A meal, a garden, a useful conversation or a creative afternoon can begin a much wider adventure.",
+    "hero": "food-and-wellbeing.webp",
+    "sections": [
+      {
+        "title": "Less waste, more enjoyment",
+        "paragraphs": [
+          "The proposed Oceania Healthy De-Slop Co-ops connect better everyday living with community capability. “De-slop” means reducing what makes life needlessly confusing, wasteful or unhealthy, while making room for things people enjoy and find useful. It applies to food and wellbeing, information and culture, and the quality of public decision-making."
+        ]
+      },
+      {
+        "title": "From growing to a shared table",
+        "paragraphs": [
+          "Food gives this programme a natural beginning. Garden Mate supports growing and observation. Kitchen Mate helps people understand what food they have and what they could cook. Fermentation Mate supports learning about preservation. Event Mate helps turn food and hospitality into well-organised gatherings. Together they follow food from growing and purchasing through cooking, sharing, preservation and the handling of surplus.",
+          "A willing household or host kitchen offers one possible beginning. An intelligent conversation about available ingredients, a meal and avoidable waste might lead into growing, a shared table or preservation. Personally chosen phone or sensor observations could help where they reduce effort. Cooks, growers and participants would shape what the tools are useful for. Food-handling knowledge remains important; an AI suggestion alone does not establish that a practice is safe.",
+          "C-hours can recognise hosting, mentoring, helping with a community garden, sharing skills, checking information and organising an activity. Outcomes can include food used, people learning a skill and a host’s reduced workload. These records help a neighbouring community adopt an approach that has worked."
+        ]
+      },
+      {
+        "title": "Connection, care and health research",
+        "paragraphs": [
+          "The health pathway begins with connection, accessible learning and practical support for living well. People can choose activities involving movement, food, creative expression and reflection. Care is provided according to the relevant service arrangements and people’s needs. A person does not have to contribute hours to deserve it.",
+          "More advanced proposals include health cooperatives, Aura Genesis and Aura Geode. Aura Genesis is a proposed voluntary learning and reflection journey supported by a personal Aura. Aura Geode is a proposed immersive physical environment, including a specialist line of hyperbaric research. These require their own clinical, engineering, funding and research development. The Australian ethics framework provides relevant context for developing any human research. [E3]",
+          "The ambition includes better support for ageing, carers and people experiencing cognitive difficulties. These are questions for careful development and evidence. Research interests include dementia, rejuvenation, longevity and health, with evidence to be assessed for each specific intervention. Community participation and health research are distinct choices, with medical information remaining a matter of personally controlled consent."
+        ],
+        "links": [
+          {
+            "label": "Source E3",
+            "url": "references.html#E3"
+          }
+        ]
+      },
+      {
+        "title": "A locally shaped programme across Oceania",
+        "paragraphs": [
+          "Across Oceania, “surge” means a coordinated increase in useful capability: more people able to host, teach, care, build and maintain shared systems. Local communities choose their priorities and work with neighbouring communities when that helps."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore the Shared Table",
+            "url": "https://auraofintelligence.github.io/shared-table-initiative/"
+          },
+          {
+            "label": "Explore Garden, Kitchen and Fermentation Mate",
+            "url": "https://auraofintelligence.github.io/mate-ecosystem/"
+          },
+          {
+            "label": "Oceania Healthy De-Slop Co-ops",
+            "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/"
+          },
+          {
+            "label": "Australian human research ethics",
+            "url": "references.html#E3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sensorium",
+    "title": "Your agent, your world, your choices",
+    "shortTitle": "The Sensorium",
+    "description": "Explore the proposed Web3 Sensorium: personal agents, useful observations and shared knowledge connected on terms people understand.",
+    "hero": "sensorium.webp",
+    "sections": [
+      {
+        "title": "A connected environment",
+        "paragraphs": [
+          "The Web3 Sensorium is the proposed connective environment for the whole adventure. It brings personal agents, phones, smart wearables, local computing, digital twins and shared knowledge into a system people can direct. Food, health, civic learning, creative work and contribution records become connected parts of everyday life. Each connection serves a purpose the participant understands and chooses. [P3]",
+          "“Sensorium” describes the ways the system receives and interprets observations. “Web3” describes the ambition for distributed control, verifiable records and cooperation across independently shaped communities. The intended experience is an intelligent conversation and useful assistance. Buying a token or understanding cryptocurrency is not a participation requirement."
+        ],
+        "links": [
+          {
+            "label": "Source P3",
+            "url": "references.html#P3"
+          }
+        ]
+      },
+      {
+        "title": "Begin with the person",
+        "paragraphs": [
+          "Level Zero or L0 is the private citizen and their controlled private environment. This includes the information, devices, spaces and agent interactions they choose to manage within it. Aura of Intelligence is the proposed personal organising environment. Its body-and-mind digital twin is a representation the person can inspect, correct and develop as their interests and life change.",
+          "Self-moderated data sovereignty starts with the person: their choices about observation, interpretation, retention and sharing. Standing preferences, specific agreements, pauses and changes of mind are possible ways of expressing that control. The pilot question is how to make it real and understandable in everyday interactions, including an honest account of technical limits. The software serves that sovereignty; it does not grant it.",
+          "Recognising existing care work, organising a project or exploring a learning goal offers a useful place to begin. Participants would help shape how an agent explains a proposed data use and checks that it matches their intention. Agreement about one contribution does not imply agreement to a health profile, public story or unrelated model training. A new purpose calls for a new conversation with the person concerned."
+        ]
+      },
+      {
+        "title": "Shared norms around a private foundation",
+        "paragraphs": [
+          "L0 to L3 is an initial illustration, inspired by the idea of multiple jurisdictions in Australia. L0 has a specific meaning here: the person and their controlled private environment. The other labels can help explore local, regional and wider shared arrangements. Their exact boundaries and names remain open to community development.",
+          "The numbering is not a fixed four-level system, a legal classification or a ranking of people. More levels, overlapping communities and different arrangements may be useful. A person might join a local food project and an Oceania creative network at the same time, with different permissions for each. A wider level does not automatically gain access to a person’s private information.",
+          "Shared norms emerge from people working out how they want to cooperate: recognising contribution, sharing information, expressing thanks and handling differences. Agents might help make those discussions understandable and remember what people have agreed, including where views still differ. The pilot would explore how agreements are revisited as circumstances change. The jurisdiction analogy is a way of thinking, not a claim to create a new legal authority."
+        ]
+      },
+      {
+        "title": "Choices across devices and networks",
+        "paragraphs": [
+          "Phones, wearables and other sensors offer ways to reduce effort when their use suits the person. Edge networks process information close to the person or activity, on a device or nearby computing service. Keeping detailed private observations local and sharing only what the person intends is a design direction to explore. Local processing alone does not guarantee privacy; trials would examine how the proposed controls behave in practice.",
+          "For example, an agent could prepare an agreed contribution record locally, then share the confirmed activity and duration with a community ledger. Raw movement, conversation or health data need not accompany it. Where connectivity is poor, approved records can wait locally and synchronise when a connection returns, with uncertainty and duplicate entries handled explicitly.",
+          "“What are you collecting?”, “Who can see this?”, “Stop recording”, “Correct that” and “Keep this private” are examples of interactions to try. Participants would help discover whether the responses actually give them clarity and control. That includes what happens after consent changes, what is still held elsewhere and what withdrawal or deletion means in practice. Personally controlled private life remains the foundation of this exploration.",
+          "Real interactions would reveal more than a polished demonstration: a mistake, changed preference, lost connection or a request the agent misunderstands. People using supported conversations bring especially important insights about assistance without surrendering control. Questions that need human judgement would be worked through with the people concerned, with the approach itself open to revision."
+        ]
+      },
+      {
+        "title": "Learn through personal and place-based twins",
+        "paragraphs": [
+          "A personal Aura connects interests, learning and projects. A place-based digital twin connects maps, observations, models and project information. Minjerribah’s proposed twins could support events, accessibility, environmental inquiry, transport discussions and local planning. Distinguishing observation, simulation, proposal and uncertainty is one useful idea to test.",
+          "Sovereign Space Builder gives this a playable learning loop: observe a place, imagine an improvement, explore it in a simulation, act in the real world and learn from the result. Begin with a project people care about, such as a productive garden or a more accessible gathering. Participants choose which information crosses from their private environment into the shared project.",
+          "The proposed connections also offer a pathway into community science. People can contribute authorised observations, preserve sources, compare interpretations and improve knowledge together. The reciprocity ledger recognises human effort; the twin helps explore the project; the archive preserves evidence and learning. These connections allow a contribution made today to strengthen the community’s ability to act tomorrow."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Try the developing Aura interface",
+            "url": "https://auraofintelligence.github.io/aura-matrix-studio/"
+          },
+          {
+            "label": "Read the Digital Twin Explainer",
+            "url": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/"
+          },
+          {
+            "label": "Explore the Straddie twin prototype",
+            "url": "https://auraofintelligence.github.io/straddie-twin-prototype/"
+          },
+          {
+            "label": "Current Sensorium design intent",
+            "url": "references.html#P3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "civic-ai",
+    "title": "Civic AI and shared capability",
+    "shortTitle": "Civic AI",
+    "description": "Understand a local question, learn a useful skill and help your community operate the tools it depends on.",
+    "hero": "civic-ai.webp",
+    "sections": [
+      {
+        "title": "Begin with one local question",
+        "paragraphs": [
+          "Civic AI is artificial intelligence used to help people understand and participate in matters affecting their community. A useful first task might be finding the source of a council proposal, explaining a public document in ordinary language or comparing options for a local project. Exploring sources and questioning explanations would be part of the learning.",
+          "The Purple Party for Australia or P4A materials explore civic learning, simulation, humour and participation in Australia, Oceania and Native Nations contexts. Begin with one local question, read the underlying material and compare more than one interpretation. Civic participation in the C-hour programme is open to people with different political views. Joining does not require support for any existing or hypothetical party or a constitutional proposal."
+        ]
+      },
+      {
+        "title": "Learn while doing useful work",
+        "paragraphs": [
+          "An AI surge brings learning, tools and practical projects together. Community members can help one another use AI, build local reference collections, check generated material and develop useful services. C-hours recognise voluntary teaching and checking. Specialist employment, equipment and operating costs need separate funding via the traditional market economy.",
+          "Available devices and a shared task offer a practical starting point for local infrastructure. The cultural intelligence node, community kiosks and larger computing proposals suggest different possibilities as demand grows. Hosts, participants and builders would explore their usefulness, cost, privacy and maintenance together. A public account of what is running, being tried and still imagined would help others find where to contribute."
+        ]
+      },
+      {
+        "title": "A doorway in everyday places",
+        "paragraphs": [
+          "Digital notice boards offer a public doorway into the experiment. A willing host and a few real invitations would give people somewhere to begin. An agent conversation, a host’s help or a private session on a shared device are possible routes. Trying these with people who have different devices and access needs would shape the experience."
+        ]
+      },
+      {
+        "title": "Keep useful knowledge close to home",
+        "paragraphs": [
+          "Continuity matters too. Local copies of essential directories, project records and relevant maps can help when connectivity is poor. Realistic trials of power, support, backups and restoration would reveal where the local setup needs attention. Proposed links with clean energy and useful recovery of computing heat need engineering and operating plans suited to each site.",
+          "The long-term opportunity is a community that can use powerful tools while retaining the knowledge and relationships needed to operate them. People learn through useful work, and the infrastructure grows around demonstrated needs."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore the P4A civic workbench",
+            "url": "https://p4a.xyz/"
+          },
+          {
+            "label": "Explore the cultural intelligence node",
+            "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/"
+          },
+          {
+            "label": "Explore the Noticeboard Network",
+            "url": "https://auraofintelligence.github.io/straddie-noticeboard-network/"
+          },
+          {
+            "label": "Explore clean energy questions",
+            "url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mutual-futures",
+    "title": "More possible lives",
+    "shortTitle": "Mutual Futures",
+    "description": "Shared ownership, lifelong learning, time for care and room for rest can grow alongside the ordinary economy.",
+    "hero": "mutual-futures.webp",
+    "sections": [
+      {
+        "title": "A braided economy",
+        "paragraphs": [
+          "Mutual Futures explores a braided economy. The ordinary market economy remains part of everyday life: people earn wages, run businesses, buy what they need and invest in what comes next. Alongside and through those exchanges run care, reciprocity, shared ownership and the voluntary contributions that keep households and communities going. The C-hour is proposed as a way to recognise and connect those contributions as the strands develop together.",
+          "The hope is that this braid helps steady society through the AI transition. As tools and working lives change, relationships, practical care and shared capability offer continuity. C-hours might help overlooked contributions become visible, connect someone’s experience with another person’s need, carrying trust and learning between projects. This is a bridge towards healthier, happier, more resilient and responsible lives, with its practical form shaped through the pilots."
+        ]
+      },
+      {
+        "title": "When a business owner starts a new chapter",
+        "paragraphs": [
+          "Mutual Futures begins with an everyday question carrying enormous possibility. When the owner of a viable business retires or wants to sell and begin a new chapter, could its people, customers, skills and productive assets continue through mutual ownership? A fair transition could preserve what has been built while giving more people a stake in what comes next. [P1]",
+          "A willing business owner and the people who know the business would bring the idea into practical conversation. Operations, obligations, knowledge, ownership, funding and the owner’s preferred next chapter would shape any proposal. Paid mentoring and AI-assisted contribution or improvements are possibilities to explore with the team, on terms they develop together.",
+          "A network of such enterprises could connect everything a modern civilisation and its citizens require to live wholesome enjoyable lives, such as food, care, repair, construction, art, creative production, entertainment, education, sports, logistics and technology. Income and member wealth would arise from the enterprise arrangements. Alongside that, C-hours offer a way to recognise voluntary mentoring, shared learning, community care and the work of bringing people together. These strands meet in the same lives and places: a successful business might support a community project, while relationships and skills grown through that project strengthen the wider local economy. The hour itself remains non-monetary."
+        ],
+        "links": [
+          {
+            "label": "Source P1",
+            "url": "references.html#P1"
+          }
+        ]
+      },
+      {
+        "title": "Try Everything Once",
+        "paragraphs": [
+          "The idea of a Try Everything Once workforce initiative invites people to discover different kinds of work through supported experience while enhancing their potential. Someone may keep a profession they love, explore a new interest or combine several strengths. A stable home base, paid supervised placements and an agreed return or next step make exploration practical.",
+          "Just-in-time learning connects instruction with a real task. AI and extended reality offer ways to explore that connection. A learner could ask their digital Aura for an explanation, practise in a simulation, watch a demonstration, see directions via smart glasses and work with a capable mentor through telepresence. The record could then show what they have actually learned and what support they still need. They choose what to share with a mentor or prospective host; a learning record does not automatically expose their wider personal Aura. Qualified and experienced people remain essential wherever the work requires them, but AI could be made available where it is required and requested.",
+          "Within Try Everything Once and just-in-time learning, the C-hour offers a thread connecting what someone learns with what they later share. A person exploring a new field might help a community project, learn alongside others and eventually guide the next newcomer. An agent-supported contribution history could bring those experiences together with the person’s chosen learning record. Learners, mentors and hosts would help explore what recognition feels useful, with paid placements and paid teaching retaining their ordinary arrangements.",
+          "Ready Sustainable Employment and Training Cooperative, or Ready S.E.T. Co-op, is proposed as a connecting organisation for hosts, mentors, learning records, equipment, paid release and handovers. The name plays on ready, set, go: help people take the next step, and play with the boldness and joy of a responsible competitive environment. Begin with a participant, a willing host, an achievable task and a clear arrangement for supervision, pay and responsibilities."
+        ]
+      },
+      {
+        "title": "Rest, learning and universal capability",
+        "paragraphs": [
+          "Intermittent Retirement gives rest, family, recovery, travel and learning a place throughout life. Start by sketching a person's preferred next chapter, then work out income, staffing cover and return arrangements. Productivity gains would then contribute where they create real capacity and resources. The programme needs an agreed financial and employment arrangement to turn a preference into supported time away.",
+          "During Intermittent Retirement, someone might enjoy sharing experience, caring for family, joining a creative project or helping in a place they visit. C-hours offer continuity for those contributions across changing chapters of life. Rest is part of the same picture. Recognition is intended to support reciprocal relationships, not create another obligation to stay productive or earn the right to take time away.",
+          "Universal Intelligence expresses the ambition of practical access to learning, creation and powerful tools. Universal Adequate Income opens a question about sufficiency across different lives, housing, care and health circumstances as productive wealth increases with AI. Mutual enterprises offer one possible contribution through productive assets, income and services. People outside those enterprises belong in the conversation too. Adequacy remains a shared question to explore and resource."
+        ]
+      },
+      {
+        "title": "Leadership and new enterprises",
+        "paragraphs": [
+          "The 500 Queens Venture Capital concept adds a pathway for women to develop enterprise leadership, mentorship and access to backing. It aims to repair the massive inequality in start-up venture capital investment in women-led enterprises. Begin with a real problem, a person interested in leading and a piece of work that can demonstrate the idea. The AI Queens Council of Aura is proposed to support exploration through creative AI perspectives alongside human mentors.",
+          "The same braid runs through enterprise development. People might voluntarily help explore a community need, test an idea, share knowledge or support an emerging founder. C-hours would give that human contribution a place alongside the separately recorded investment, paid work and ownership arrangements. Contributors and founders would help shape appropriate recognition and thanks. That makes the support around an enterprise visible without turning contribution hours into money or an equity claim."
+        ]
+      },
+      {
+        "title": "Connected places and possibilities",
+        "paragraphs": [
+          "The proposed Minjerribah network includes different sites and opportunities. The 82 Claytons Road, Amity Anglican partnership proposal concerns a possible gift and aged-care partnership. The 9 Ballow Road proposal for Ready Sustainable Employment and Training Cooperative with local AI compute cluster and 7 Mile Indigenous cultural experiences concepts have their own purposes and development paths. These proposals are adjacent potential new pathways for local opportunities, while the C-hour pilot can begin with willing hosts and available places.",
+          "Across these possibilities, the C-hour is a connecting thread through a person’s own adventure. A community activity might lead to learning, a paid opportunity, mutual enterprise, a period of care or a new creative direction. Market income helps sustain everyday life; reciprocity and shared capability help people sustain one another. The pilot would explore how the ledger makes those relationships easier to notice and strengthen, especially for people already giving a great deal with little recognition. The ambition is a braid that earns trust through practical benefit as people shape their future together."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore Mutual Futures",
+            "url": "https://auraofintelligence.github.io/mutual-futures/"
+          },
+          {
+            "label": "Work and life",
+            "url": "https://auraofintelligence.github.io/mutual-futures/workforce.html"
+          },
+          {
+            "label": "Business succession",
+            "url": "https://auraofintelligence.github.io/mutual-futures/succession.html"
+          },
+          {
+            "label": "500 Queens Venture Capital",
+            "url": "https://auraofintelligence.github.io/500-Queens-VC-2026/"
+          },
+          {
+            "label": "Minjerribah site and service ideas",
+            "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "stories",
+    "title": "Stories that help people join",
+    "shortTitle": "Stories and creativity",
+    "description": "Show the truth and the fun. Let people see the care, learning and human contribution behind a useful project.",
+    "hero": "stories.webp",
+    "sections": [
+      {
+        "title": "Follow the human story",
+        "paragraphs": [
+          "A project becomes understandable when people see someone taking part, enjoying themselves and doing something useful. Our media principle is simple: show the truth and the fun. These stories are also a way to make the braided economy visible: the paid work, voluntary effort, care, learning and community thanks that meet in a real project. The C-hour offers one thread to follow through that story, bringing attention to the people whose contributions might otherwise disappear behind the finished result without much recognition.",
+          "The proposed Minjerribah Screen Media and News Network would connect stories, skills, screens, trust, resilience and places. A first activity could be a short documentary of a host and participant, a film-club evening or a practical workshop. The Spirit Animal Podcast offers another route into people’s interests, values and experiences. Guests choose their own meaning and what they wish to share."
+        ]
+      },
+      {
+        "title": "Making a story is a contribution",
+        "paragraphs": [
+          "Media-making is itself a place to explore C-hours. Researching a local story, recording sound, editing, captioning, helping someone learn equipment or hosting a screening may all involve voluntary human contribution. A shared production might also include paid professionals, purchased equipment and funded services. The ledger would help make these different contributions understandable, while those involved shape the recognition they value. An intelligent conversation offers a way to gather that account without adding another timesheet to an already busy production."
+        ]
+      },
+      {
+        "title": "Longer stories and creative possibilities",
+        "paragraphs": [
+          "Documentaries, including Grain by Grain, can follow longer questions about place, materials, culture, possibility and long term resilient civilisation building. Courses turn lessons from real projects into something another person can try. Music, animation, games and creative arts can help people imagine possibilities and express different perspectives. Fiction plays an important role with its creative context for simulating alternative possibilities.",
+          "Imagine a visitor helping at a shared-table afternoon and later contributing to its documentary from home. A local participant might learn editing alongside them, then share that skill at a film-club gathering. The contribution history could connect those chapters, while the film shows the relationships and learning behind the hours. A podcast conversation or short course might invite the next person into an adventure of their own. Story, learning and reciprocity grow together through the same lived experience."
+        ]
+      },
+      {
+        "title": "Keep the source and the human judgement",
+        "paragraphs": [
+          "The local documentary builder resources help retain sources, consent, research notes and the distinctions between evidence and interpretation. With the people involved choosing what to share, a story might link to a project’s contribution record and the lessons learned. The DaVinci Resolve automation materials and Infinity Engine explore ways to reduce production effort. As AI takes on more work, the C-hour keeps attention on the human time, care and judgement involved, while participants explore how the freed capacity might support more creativity, connection or rest."
+        ]
+      },
+      {
+        "title": "Tell an honest story and leave room for privacy",
+        "paragraphs": [
+          "Real difficulties belong in the story. A project may run late, an idea may not work or people may disagree. Those experiences help explain what changed and why. Recognition of a contribution and publication of someone’s story are separate conversations. A quiet contribution has a place in the C-hour exploration without becoming publicity.",
+          "A named host, gathering, activity or conversation would give an interested viewer somewhere to begin. They might join a project, offer a skill, ask for help or suggest something missing. Their response could change both the invitation and the project. In this way, media becomes part of the C-hour’s bridge: people see care and reciprocity in action, find a meaningful entry, and help shape a more enjoyable and resilient community through the transition."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Minjerribah Screen and Media Network",
+            "url": "https://auraofintelligence.github.io/minjerribah-screen-media-network/"
+          },
+          {
+            "label": "Spirit Animal Podcast",
+            "url": "https://auraofintelligence.github.io/spirit-animal-podcast/"
+          },
+          {
+            "label": "Documentary builders",
+            "url": "https://auraofintelligence.github.io/film-club-documentary-builders/"
+          },
+          {
+            "label": "Grain by Grain",
+            "url": "https://auraofintelligence.github.io/grain-by-grain-documentary/"
+          },
+          {
+            "label": "DaVinci Resolve Automations",
+            "url": "https://auraofintelligence.github.io/davinci-resolve-automations/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "software",
+    "title": "Build the connected software",
+    "shortTitle": "Build the software",
+    "description": "A working conversation, a useful contribution record and clear personal choices offer somewhere practical to begin.",
+    "hero": "software.webp",
+    "sections": [
+      {
+        "title": "A product to shape together",
+        "paragraphs": [
+          "The next step is a working product that people can try, improve and help build. The C-hour needs a connected software foundation: a personal agent, understandable consent, community adventures, a reciprocity ledger and links into the local area digital twins that eventually connect together and form the proposed Web3 Sensorium. Together these turn a promising idea into an experience a household, visitor or host organisation can use.",
+          "The proposed development approach is open source and AI-assisted from the beginning. We can use conversational coding, often called vibe coding, to assemble working prototypes, then improve them through real use, review and repeatable checks. Better AI tools and a growing contributor community could compress development dramatically. The roadmap therefore describes plausible capabilities, with indicative time windows that can shorten when the work is ready. It does not require waiting for the complete Aura platform or every advanced facility.",
+          "This is a starting product sketch for builders and participants to revise together. The linked corpus contains ideas, content and possible starting code. A technical inventory would help distinguish what already runs, what is reusable and what still needs to be built. Its findings may change the proposed architecture and sequence substantially."
+        ]
+      },
+      {
+        "title": "The first useful journey",
+        "paragraphs": [
+          "One proposed first release follows a complete journey: an invitation, a conversation, a chosen activity or existing contribution, a discussion of information use, participation, reflection and a next step. Hosts and participants would help discover which parts are useful, what is missing and what could disappear. The journey is a way to start learning from a working product.",
+          "Trying both a hosted adventure and recurring informal care would expose different needs. A connected example involving food, learning, a creative story and a place-based observation offers another way to explore the wider ecosystem. Participants may suggest a much better demonstration and that can inform other communities as they start their own C-hour pilots."
+        ]
+      },
+      {
+        "title": "Candidate pieces to connect",
+        "paragraphs": [],
+        "cards": [
+          {
+            "title": "Personal agent and access",
+            "text": "A phone-friendly application is a candidate for text and voice conversations, personally chosen memory and private shared-device sessions. Participants would help shape access, recovery and ending a session. The design question is how to make assistance useful and intelligible while leaving decisions with the person."
+          },
+          {
+            "title": "Level Zero or L0 consent and private storage",
+            "text": "One approach pairs a personal information store with a service that remembers purpose, information, recipient, duration and changes of consent. Separate software checks could help keep model actions within the person’s choices. Builders and participants would test this approach together, including how to inspect and revise an agreement."
+          },
+          {
+            "title": "Adventure and community service",
+            "text": "A shared service might connect agent conversations with current invitations, contacts, capacity and locally developed norms. Household contribution, visitor participation and remote follow-up provide different cases to explore. Notice boards and project invitations could draw on the same information. Real hosts and participants would help decide what belongs in that shared service."
+          },
+          {
+            "title": "Reciprocity ledger and verification",
+            "text": "A candidate ledger would hold contribution accounts, the context people find useful, their sharing choices and subsequent confirmations/corrections. Proposed, confirmed and disputed are possible states to test. Duplicate submissions and overlapping activities are practical questions for the first build. Community-chosen recognition, awards and rewards belongs in this exploration."
+          },
+          {
+            "title": "Sensorium and digital twin connections",
+            "text": "Small connectors might translate personally authorised phone, wearable, sensor or project observations into a useful format. Source, time and purpose are ideal starting details to discuss. A place-based digital twin showing project locations and chosen outcomes would let participants try the connection. Richer simulations and immersive Aura experiences could grow from what proves useful."
+          },
+          {
+            "title": "Knowledge and media service",
+            "text": "An agent connected to relevant guidance, sources and current activities might help people navigate the ecosystem. Civic AI, De-Slop learning, courses, podcasts and documentary resources offer material to explore. Participants would help assess the explanations and the distinction between imagined and operating services. Publication of a person’s story remains a separate conversation from recognising their contribution."
+          },
+          {
+            "title": "Operations and community support",
+            "text": "Releases, backups, corrections and participant support are part of making a pilot useful beyond its first afternoon. Builders and hosts would work out these responsibilities together. Learning how to diagnose failures without collecting private conversations is one of the practical design requirements."
+          }
+        ]
+      },
+      {
+        "title": "A practical foundation to test",
+        "paragraphs": [
+          "One shared codebase with clear component boundaries is a candidate for the first assembly. It offers a relatively simple place to build and change things together. Independently operated services are another possibility as communities explore different arrangements. The people doing the work would shape that choice.",
+          "A progressive web application is a candidate for the first phone and shared-device client, offering access from a link, installation and selected offline functions. Trials on participants’ actual devices would reveal what works. A dedicated mobile companion is another option where a wearable or background sensor connection needs it. [S1]",
+          "A replaceable agent gateway would help compare models and adopt improvements without rebuilding the ledger. It offers a place to implement the person’s choices about which information reaches which service. There are an increasing number of highly capable open source AI models that could be tested as candidates for local model experiments on suitable computers. A useful pilot comparison would show what runs locally, what relies on a remote service and how each option feels to participants. [S3]",
+          "Shared software interfaces and record formats offer a way for Garden Mate, Kitchen Mate, civic tools, media projects and twins to connect. An initial connector would help test whether the proposed formats are useful. Builders of neighbouring projects would bring important input, and the formats would evolve with them.",
+          "The Web3 idea here begins with open source distributed control, portable records and verifiable provenance. Whether a blockchain adds something useful to a particular connection remains an open design question. A first pilot offers a way to investigate that value while keeping personal sovereignty and the non-monetary nature of C-hours front and centre."
+        ],
+        "links": [
+          {
+            "label": "Source S1",
+            "url": "references.html#S1"
+          },
+          {
+            "label": "Source S3",
+            "url": "references.html#S3"
+          }
+        ]
+      },
+      {
+        "title": "A roadmap open to acceleration",
+        "paragraphs": [
+          "Expansion would follow interest, useful results and the people joining the build. BYO device connections, local operation, food and civic tools, learning pathways and immersive twins might develop alongside one another. A contributor arriving with a working idea could change the sequence immediately. The roadmap is deliberately open to that kind of surprise.",
+          "These windows are discussion starters for a focused, resourced build. Repository findings, real participants and contributors would reshape them. Better model-assisted development and reusable components could compress the work dramatically. Sharing what people are actually doing with each release would make that acceleration visible."
+        ],
+        "steps": [
+          {
+            "title": "First working assembly, an initial days 1 to 7 sketch",
+            "text": "Interested builders might begin by surveying the repositories, choosing reusable parts and assembling a conversation-to-contribution journey with fictional data. A phone demonstration, a correction and a data request outside the person’s choices would give participants something concrete to discuss. What runs and what is simulated would be made clear. The findings would shape the next build."
+          },
+          {
+            "title": "Connected alpha, an initial weeks 2 to 4 sketch",
+            "text": "Account access, consent controls, persistent records, human verification where appropriate and one Sensorium connector are possible next pieces. A willing household, host and visitor group would help test the experience. Changed consent, a corrected record and an interrupted connection offer useful cases to explore together before relying on the software for sensitive information."
+          },
+          {
+            "title": "Supported pilot, an initial weeks 4 to 8 sketch",
+            "text": "Live adventures and notice boards would bring the product into everyday use. Voice, shared devices, community thanks and a contribution linked into a twin are possible areas of learning. Hosts and builders would track effort, costs and failures, and practise handing operation and recovery to another person."
+          },
+          {
+            "title": "Repeatable community release, an initial weeks 8 to 12 sketch",
+            "text": "A second willing community would help discover what travels well and what needs local reinvention. Voluntary sharing of a contribution history offers one test, including a person choosing not to share. Installation notes, known limitations and accounts of the pilot would help the next group decide how to begin."
+          }
+        ]
+      },
+      {
+        "title": "Help build a useful piece",
+        "paragraphs": [
+          "A clearly named open-source home, an explicit licence, a working demonstration and simple, straightforward setup instructions would give interested people a practical entry. Contributors would review the licences of reused code and models as part of that work. Sharing software does not imply sharing the private lives of its users.",
+          "Small, useful tasks offer a way into the build: a voice interaction, a garden connector, a consent test, a translation, a source check or a simpler invitation. A purpose, sample information and an observable result would help someone begin. Testing, lived experience, accessibility and learning material belong alongside programming as contributions to product design.",
+          "AI-assisted code, tests and documentation offer a fast starting point. Review by other builders and automated checks are proposed ways to learn where a change fails before others depend on it. GitHub Actions is one available tool. Unintended data access, duplicate hours, lost consent changes and incompatible formats are useful first cases for the team to investigate. [S4]",
+          "Product coordination, software integration, personal data controls, community testing and operations are responsibilities to discuss among the people joining the build. Roles may overlap and change. Ready S.E.T. Co-op offers a possible home for related learning and mentoring. Voluntary development and testing belong within the C-hour exploration, with paid engineering retaining its own arrangements.",
+          "A working demonstration invites interest; an easy first contribution helps turn that interest into a stronger product. As AI improves, new models offer further experiments in cost, speed and capability. Participants and builders would help assess whether those improvements also respect the personal choices, applicable laws and meanings developed in the pilot while the adventure grows through that continuing exchange."
+        ],
+        "links": [
+          {
+            "label": "Source S4",
+            "url": "references.html#S4"
+          }
+        ]
+      },
+      {
+        "title": "An invitation supporters can explore",
+        "paragraphs": [
+          "A politician, nonprofit or prospective host could try the emerging journey and see which parts are running. A prospective volunteer might discover an enjoyable contribution or suggest a missing one. A developer might run the code and propose a better way to assemble it. Their questions and experiences become part of the product’s direction.",
+          "An initial budget discussion would separate build time, model and voice usage, hosting, devices, support and review. Measured pilot costs would give that discussion substance. Open source invites shared development, while the people involved work out how continuing operation is resourced and managed.",
+          "The immediate invitation is therefore concrete: help assemble and test the first connected release on Minjerribah. Bring code, lived experience, a useful activity, a device connection or a willingness to try it. The ambition is a joyful product that gets better as more people help create it, with progress fast enough to surprise us and clear enough for everyone to follow."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore the source repository",
+            "url": "https://github.com/auraofintelligence/C-Hour-introduction"
+          },
+          {
+            "label": "Progressive web applications",
+            "url": "references.html#S1"
+          },
+          {
+            "label": "Local model experiments",
+            "url": "references.html#S3"
+          },
+          {
+            "label": "Build and review workflows",
+            "url": "references.html#S4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "pilot",
+    "title": "Begin on Minjerribah",
+    "shortTitle": "The pilot",
+    "description": "A possible twelve-week pilot grows through willing hosts, everyday contribution and useful experiences people want to continue.",
+    "hero": "pilot.webp",
+    "sections": [
+      {
+        "title": "Start small enough to learn",
+        "paragraphs": [
+          "The exploration in the software chapter and the community pilot would inform each other. The twelve-week sketch below is an invitation to plan with hosts and participants. Food, creativity, AI learning and care offer connected starting points; people joining may bring others. Dates, roles and sequence would develop around those conversations and available resources."
+        ]
+      },
+      {
+        "title": "Weeks 1 and 2: find the first hosts",
+        "paragraphs": [
+          "The offered Oodgeroo introductions provide an opening for conversations with interested organisations. Local community and cultural participation, young people, visitors, carers and people already organising useful activities would bring different perspectives. An initial conversation might ask what would make their existing work easier or more enjoyable. Informal contribution and home life offer key starting points alongside organised activities.",
+          "Early conversations would begin with what hosts and participants are already carrying: workload, costs, frustrations and the things they wish were easier. From there, they might choose a small, useful interaction to try, such as finding help, organising an activity or recognising overlooked care. The C-hour idea, information sharing and verification would develop through that experience. Coordination, support and any costs deserve open discussion, especially where another unpaid responsibility would make life harder."
+        ]
+      },
+      {
+        "title": "Weeks 3 to 6: try a connected adventure",
+        "paragraphs": [
+          "One possibility is a gathering with several ways to participate, connected to a few recurring activities. A shared table, a creative story and practical AI learning might fit together naturally. The people involved would shape that combination and how participants might remain connected afterwards.",
+          "Trying the agent interactions during real activities would help reveal how contribution, recognition and personally chosen sharing fit together. Financial inputs would stay distinct from C-hours. Participants’ responses to consent changes, private participation and interrupted connectivity would guide revisions. What they enjoyed, what felt difficult and whether they want to return would matter more than completing the original sequence."
+        ]
+      },
+      {
+        "title": "Weeks 7 to 12: make useful parts repeatable",
+        "paragraphs": [
+          "People returning to the pilot might enjoy welcoming newcomers, or prefer to continue in other ways. Their experiences would help identify which activities grow relationships and which, if any, overburden hosts. A shared account of what happened, shaped with those involved, could include unresolved questions and changes of direction.",
+          "Activity descriptions, contacts, resources, recognition ideas and lessons learned could become a shared reference for people and their agents. A neighbouring group trying that material would help discover what is useful and what needs local reinvention."
+        ]
+      },
+      {
+        "title": "Months 4 to 12: connect the local network",
+        "paragraphs": [
+          "Interest from additional hosts across Minjerribah, other islands and Redlands would open the next conversation. Ready S.E.T. Co-op learning and paid-work pathways, digital twin activities and De-Slop projects offer possible connections. Specialist health research and infrastructure would develop through the people and expertise involved, with their own resources and ideas.",
+          "Before spreading further, hosts and participants would reflect on their experience: what was useful, who wants to continue, what became burdensome and what support another group would need. Hour totals tell only part of that story. Their judgement would shape whether to expand, revise an approach or try a different direction."
+        ]
+      },
+      {
+        "title": "Grow across Australia and Oceania",
+        "paragraphs": [
+          "Other communities are invited to take what is useful and reshape it in their own language, relationships and priorities. Comparing approaches would help people discover which shared practices support cooperation and where differences matter. The Sensorium offers a way to explore those connections from each person’s L0 foundation.",
+          "GAJRA Earth is imagined as a network of locally shaped associations and projects focusing on empowering Joyful Responsible Abundance on Earth. The people involved would develop their own ways of taking responsibility, explaining decisions and revisiting them. The proposal includes no founder veto or equivalent reserved power."
+        ]
+      },
+      {
+        "title": "Keep a larger horizon",
+        "paragraphs": [
+          "Longer research paths include materials and making, clean energy, space-weather observation, civilisation continuity and the Kardashev galactic games. These connect ambitious science and creative exploration with learning that people can begin now. Each project simply needs a clear question, evidence, capable collaborators and a next experiment. A community can keep a large horizon while knowing exactly what it has demonstrated.",
+          "The proposed July 2035 gathering for the fiftieth anniversary of Live Aid offers a creative horizon: three days themed Past, Present and Future, connecting art, music, reflection and collective participation. It is an ambition to organise towards, not a booked event. The hope is to spend those years creating useful work worth celebrating."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Browse practical project connections",
+            "url": "projects.html"
+          },
+          {
+            "label": "Explore the Shared Table",
+            "url": "https://auraofintelligence.github.io/shared-table-initiative/"
+          },
+          {
+            "label": "Explore Ready S.E.T. Co-op",
+            "url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "growing-together",
+    "title": "Resource the work and grow together",
+    "shortTitle": "Growing together",
+    "description": "Useful help, enjoyment, stronger relationships and less burden matter more than a growing hour total.",
+    "hero": "growing-together.webp",
+    "sections": [
+      {
+        "title": "Resource a worthwhile beginning",
+        "paragraphs": [
+          "The first budget conversation would look at coordination, accessibility, transport, supplies, equipment, software, support and learning from the pilot. Grants, donations, sponsorship, cooperative finance and commercial income offer different possibilities depending on the activity. Those exploring them would establish what resources are actually available and on what terms.",
+          "The Stradbroke Grants Lab is designed to help organise funding opportunities and applications. Community wealth and mutual ownership proposals can support longer-term shared assets and enterprise. Their financial arrangements remain separate from C-hours. Funding may enable an activity or a reward without becoming money backing the recorded hour.",
+          "Separate funding makes the practical picture easier to understand. A paid coordinator, volunteer host and donated supplies may all support the same afternoon. Their contributions meet in the same experience, while money, human hours and results answer different questions. None of those records makes the C-hour a monetary claim."
+        ]
+      },
+      {
+        "title": "Notice what is improving",
+        "paragraphs": [
+          "What would tell participants that this is worth continuing? Recognition of existing care, less administrative effort, enjoyment, returning friendships, useful skills and manageable hosting are possible signs. People involved would choose what matters and how to notice it. Food saved or a demonstrated skill might offer concrete examples, while clinical and ecological questions call for evidence appropriate to those claims."
+        ],
+        "cards": [
+          {
+            "title": "For the participant",
+            "text": "Was an existing contribution recognised? Did the experience bring useful help, enjoyment, a new skill or a friendship? Did someone feel able to pause, correct a record or leave?"
+          },
+          {
+            "title": "For the host",
+            "text": "Was the activity manageable? Did the tools reduce effort? What support, resources or changes would make another gathering worthwhile?"
+          },
+          {
+            "title": "For the shared project",
+            "text": "What actually changed? A repaired item, food used or a demonstrated skill gives an outcome record substance. A larger hour total alone cannot establish success."
+          }
+        ]
+      },
+      {
+        "title": "Let experience earn trust",
+        "paragraphs": [
+          "Trust is something to earn through the experience. Did this save someone effort, provide useful help or bring enjoyment? Did it create another burden, an unexpected cost or pressure to give more? Was a concern heard, and did anything change afterwards? These questions belong with participants, including those who lose interest or leave. A growing ledger is less persuasive than people finding the experience worth their time.",
+          "Unexpected results matter too. A friendship, an idea or renewed confidence may be the reason someone returns. Participants’ own accounts would help reshape the ledger, the activities and the questions we ask next."
+        ]
+      },
+      {
+        "title": "One useful next step",
+        "paragraphs": [
+          "For the first host conversation, bring one activity people would like to do, one person willing to help organise it and one clear next step. The whole ecosystem does not have to be finished before someone has a worthwhile afternoon. Each well-supported beginning can add another capable person, another shared resource and another path through the adventure."
+        ]
+      },
+      {
+        "title": "Explore the connections",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Explore Stradbroke Grants Lab",
+            "url": "https://auraofintelligence.github.io/stradbroke-grants-lab/"
+          },
+          {
+            "label": "Community wealth and mutuals",
+            "url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/"
+          },
+          {
+            "label": "Read the complete source library",
+            "url": "references.html"
+          }
+        ]
+      }
+    ]
+  }
+]

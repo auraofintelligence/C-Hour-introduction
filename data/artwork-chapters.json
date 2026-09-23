@@ -1,0 +1,93 @@
+{
+  "generated": "2026-09-24",
+  "artworks": [
+    {
+      "id": "choose-an-adventure",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: a beautiful open coastal community workshop courtyard where several inviting paths meet. A young adult repairs a bicycle with an older neighbour in one small area; two people pot seedlings, a parent and child make music together, and a friendly person welcomes someone arriving. A sweeping curving path visually invites choice. Warm morning light across native coastal foliage and distant turquoise water. Diverse people, natural interactions, no one posing.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-e749bc53-f255-4721-929c-dedd1010189a.png",
+      "original": "assets/images/originals/choose-an-adventure.png",
+      "web": "assets/images/choose-an-adventure.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    },
+    {
+      "id": "community-hours",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: an intimate community veranda at late afternoon. An older adult teaches a younger adult a practical handcraft while a parent helps a child, and a neighbour quietly brings prepared food. A simple phone on the table shows only soft abstract coloured shapes with no readable interface. Human care, actual shared time and unhurried attention are the central subjects. Rounded timber, woven textures, warm ceramic cups and distant coastal trees. No stopwatch or clock faces, no reward imagery.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-112db5e3-79d4-4230-a0d2-819dacbc64b1.png",
+      "original": "assets/images/originals/community-hours.png",
+      "web": "assets/images/community-hours.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    },
+    {
+      "id": "sensorium",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: a person sitting comfortably on a sunlit coastal veranda holding a phone, calmly choosing how to connect with nearby family and a distant community hub. Elegant subtle transparent light ribbons emerge from the person's own small private space and connect selected points in the garden, suggesting personal control of information; avoid surveillance or giant screens. Optional small wrist wearable, local tabletop computing device. Integrate technology gently into everyday life, human remains central. Soft twilight petrol sky and luminous mint, peach and amber.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-9a9597e8-17a4-4b5f-b602-f67edf0aef29.png",
+      "original": "assets/images/originals/sensorium.png",
+      "web": "assets/images/sensorium.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    },
+    {
+      "id": "food-and-wellbeing",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: a joyful subtropical community garden flows directly into an open-air shared kitchen and a long shared table. Several adults of different ages wash fresh garden vegetables, pass ceramic bowls and prepare a simple meal; children help plant seedlings in the foreground. Abundant edible greenery, citrus, compost and rainwater tank integrated naturally. Warm human connection and nourishment, glowing amber light, mint green gardens and coral kitchen details. No medical devices, no health claims.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-d0adf72a-925c-4ff6-b252-15cd8e13edfe.png",
+      "original": "assets/images/originals/food-and-wellbeing.png",
+      "web": "assets/images/food-and-wellbeing.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    },
+    {
+      "id": "why-now",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: a welcoming community learning space in an airy coastal library where an older person and a teenager explore a small glowing physical AI learning model together. At another table a small group make a practical garden sensor with simple tools. Open doors look towards an ordinary coastal neighbourhood of low buildings, paperbarks, solar panels and blue sea, explicitly no mountain peaks. Wide cinematic view with clear foreground subjects and a hopeful dawn horizon. No classroom rows, no giant tech corporation motifs.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-a3af758a-3191-4db4-b5c5-9ad03a49d054.png",
+      "original": "assets/images/originals/why-now.png",
+      "web": "assets/images/why-now.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    },
+    {
+      "id": "people-and-purpose",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: a diverse circle of neighbours from teenagers to older adults gathered at a beautiful timber table beneath a sweeping coastal shade canopy. They listen to one another, draw rough ideas on blank paper and pass a seedling across the table; one wheelchair user is included naturally. In the foreground an empty chair warmly invites the viewer to join. Native subtropical coastal trees, calm low sand island and turquoise bay behind. Emphasise shared authorship, trust through everyday conversation, open welcoming body language.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-47eeb82c-4f3e-49d6-bef9-45d83bda0999.png",
+      "original": "assets/images/originals/people-and-purpose.png",
+      "web": "assets/images/people-and-purpose.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    },
+    {
+      "id": "reciprocity",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: a community evening of freely chosen appreciation in a coastal courtyard. One person thanks a neighbour by passing a small potted herb; nearby someone teaches a guitar chord and another repairs a child's scooter. A shared meal and low warm string lights connect the gathering. Equal dignity of different contributions, informal goodwill and care. No handshakes as central motif, no certificates, no medals, no tokens, no transactional marketplace. Broad smiling natural intergenerational community, rich amber glow and deep teal night foliage.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-fe12df44-ec2f-42c5-83b8-2094a97784ce.png",
+      "original": "assets/images/originals/reciprocity.png",
+      "web": "assets/images/reciprocity.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    },
+    {
+      "id": "civic-ai",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "kind": "GenAI concept illustration",
+      "prompt": "Use case: stylized-concept. Asset type: original full-width website chapter hero for a community future proposal called C-Hour. Create a sophisticated luminous editorial solarpunk illustration with tactile premium 3D detail, approachable warm intergenerational people, subtropical Australian coastal island inspiration. Cinematic landscape composition, 1536x1024, calm deep petrol teal shadows, coral and peach, amber sunshine, mint and pearlescent details. Excellent readable scene at mobile width; coherent physical objects and thoughtful human gestures. Optimistic, shiny, playful, elegant rather than cartoonish. These are fictional concept scenes for proposed futures, not existing people or facilities. No text, lettering, labels, logos, coin shapes, tokens, currency, charts, watermarks or visible words. Keep full scene suitable for an edge-to-edge hero without overlaid type. Scene: a small diverse group of residents around a broad interactive tabletop in a coastal community library, exploring a luminous three-dimensional model of their island's paths, gardens, water and low homes. Everyone can point, disagree and contribute, a younger adult and an older adult in animated respectful conversation. Plain source books and unlettered pages nearby imply checking evidence. Human judgement is central and technology is a shared aid. Teal daylight with coral chairs, brushed pearl tabletop and warm wood. No government emblems, flags or politician likenesses, no futuristic authoritarian control room.",
+      "source": "C:\\Users\\lukec\\.codex\\generated_images\\01a0cf2d-4663-75e1-a9c3-f51ba18d7db1\\exec-df908ef7-978d-4bf0-81e4-c47e652af7c4.png",
+      "original": "assets/images/originals/civic-ai.png",
+      "web": "assets/images/civic-ai.webp",
+      "caption": "GenAI concept illustration of a possible future. People and places are imagined."
+    }
+  ]
+}

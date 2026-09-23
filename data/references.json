@@ -1,0 +1,705 @@
+{
+  "updated": "2026-09-24",
+  "planDate": "2026-09-23",
+  "precedence": "The 23 September 2026 planning edition is the current narrative. Its Appendix B takes precedence over conflicting historical wording. C-hours recognise verified voluntary human time, have no monetary equivalent, and leave thanks and reciprocity to participating communities. The pilot and wider ecosystem remain proposals.",
+  "documents": [
+    {
+      "id": "plan",
+      "title": "Community Hours and Joyful Responsible Abundance: planning edition 5",
+      "file": "references/originals/C-Hour-Joyful-Responsible-Abundance-Plan.docx",
+      "format": "DOCX",
+      "sourceStatus": "current plan",
+      "note": "The supplied planning edition dated 23 September 2026. Appendix B explains how to interpret older sources.",
+      "sha256": "8b816f04578f028e0590eb72f266eeae50082a60499d45939b139da3c2b25a73",
+      "size": 79407,
+      "originalFilename": "C-Hour-Joyful-Responsible-Abundance-Plan.docx",
+      "anchors": [
+        "P3"
+      ]
+    },
+    {
+      "id": "unpaid-work",
+      "title": "Unpaid Work, C-Hours, Societal Costs",
+      "file": "references/originals/Unpaid_Work,_C-Hours,_Societal_Costs.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "The supplied Markdown title is an exact filename match. Also provides context for Appendix B7 and P2; the PDF edition was not located. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "b2f9f011af3b536757d8b61fe9abcca8f606ec4ecb4b71a537c059f4b4684dc1",
+      "size": 78889,
+      "originalFilename": "Unpaid_Work,_C-Hours,_Societal_Costs.md",
+      "anchors": [
+        "P2"
+      ]
+    },
+    {
+      "id": "c-hour-legislation-md",
+      "title": "Australian C-Hour Legislative Strategy: Markdown",
+      "file": "references/originals/Australian_C-Hour_Legislative_Strategy.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Exact Markdown filename match. Historical policy advocacy; see Appendix B8 and P2. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "28b0fb98eda234d79373e709cf10a9e0186430055f784c9a4d49c4fa208c8da9",
+      "size": 78395,
+      "originalFilename": "Australian_C-Hour_Legislative_Strategy.md"
+    },
+    {
+      "id": "c-hour-legislation-pdf",
+      "title": "Australian C-Hour Legislative Strategy: PDF",
+      "file": "references/originals/Australian C-Hour Legislative Strategy.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF. The timestamped edition named in Appendix B8 was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "f5bdd4ff959d920b25c4c7897fae00d0d2dfb01d8071da7fc35499e377559e18",
+      "size": 596494,
+      "originalFilename": "Australian C-Hour Legislative Strategy.pdf"
+    },
+    {
+      "id": "sensorium",
+      "title": "Web3 Sensorium for Science Debate",
+      "file": "references/originals/Web3 Sensorium for Science Debate.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF for Appendix A and B13. The timestamped B13 edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "f3808a7e57262f416d792639080e68b6010fcb1c53573cac9d8ea9d829a30122",
+      "size": 604459,
+      "originalFilename": "Web3 Sensorium for Science Debate.pdf"
+    },
+    {
+      "id": "space-builder-2",
+      "title": "Sovereign Space Builder: Part 1 of Full System and Implementation",
+      "file": "references/originals/Sovereign_Space_Builder__Full_System_Specification_(2).md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix A and B12. Although its filename ends in (2), the document heading says Part 1. The prefixed Markdown and part 2 PDF editions named in the plan were not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "56383abdae18575c169675528febf251e83bfc5a9845c88f294415d7efc7bddd",
+      "size": 36285,
+      "originalFilename": "Sovereign_Space_Builder__Full_System_Specification_(2).md"
+    },
+    {
+      "id": "space-builder-1",
+      "title": "Sovereign Space Builder: full system specification",
+      "file": "references/originals/Sovereign_Space_Builder__Full_System_Specification.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix A and B12. The part 1 PDF named in the plan was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "b2e65f4f6e9cab560624d67d235db2eb344b42e6e89f8fd05f47b57844eca863",
+      "size": 100849,
+      "originalFilename": "Sovereign_Space_Builder__Full_System_Specification.md"
+    },
+    {
+      "id": "ai-kitchen",
+      "title": "AI Kitchen Food Waste Solution",
+      "file": "references/originals/AI_Kitchen_Food_Waste_Solution.md",
+      "format": "MD",
+      "sourceStatus": "context",
+      "note": "Title-matched Markdown source for the food pathway in Appendix A. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "d7927140dcdc8e3ae9ab3599d1bf9981ea6415845c0047bb175ad5cc77c158f2",
+      "size": 80708,
+      "originalFilename": "AI_Kitchen_Food_Waste_Solution.md"
+    },
+    {
+      "id": "integrated-food",
+      "title": "Integrated Food System AI Expansion",
+      "file": "references/originals/Integrated Food System AI Expansion.md",
+      "format": "MD",
+      "sourceStatus": "context",
+      "note": "Title-matched Markdown source for the food pathway in Appendix A. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "7793d456d0b755ce8199e4538e89f0d4dec0ab12757b1288318a2b0f28e18c1d",
+      "size": 73280,
+      "originalFilename": "Integrated Food System AI Expansion.md"
+    },
+    {
+      "id": "oceania-health",
+      "title": "Oceania Health and AI Surge Plan",
+      "file": "references/originals/Oceania_Health_and_AI_Surge_Plan.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix A and B1. The prefixed Markdown named in B1 was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "6a40753a486d998f2556efd0a751b0e4f29c88fd60c5330ed36d9113e116dc1c",
+      "size": 48719,
+      "originalFilename": "Oceania_Health_and_AI_Surge_Plan.md"
+    },
+    {
+      "id": "health-tech",
+      "title": "Health-Tech Cooperative Business Plan",
+      "file": "references/originals/Health-Tech Cooperative Business Plan.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Title-matched Markdown for Appendix A and B11. The prefixed Markdown and timestamped PDF named in B11 were not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "ef10f32d12686c45fcdb55468221087339488effb42cdcfb3f6b0cebcc4dea42",
+      "size": 68095,
+      "originalFilename": "Health-Tech Cooperative Business Plan.md"
+    },
+    {
+      "id": "claytons-road",
+      "title": "82 Claytons Road Anglican Partnership Proposal",
+      "file": "references/originals/82-Claytons-Road-Anglican-Partnership-Proposal.pdf",
+      "format": "PDF",
+      "sourceStatus": "context",
+      "note": "Title-matched proposal for Appendix A and B. A proposed partnership and site, not proof of a secured property or operating service. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "e984ef8f737cb24ee8604d0c16b956baeaa13a69d6820835b16ab1467dab181d",
+      "size": 135711,
+      "originalFilename": "82-Claytons-Road-Anglican-Partnership-Proposal.pdf"
+    },
+    {
+      "id": "queens-venture",
+      "title": "Queens Venture Capital Planning Document",
+      "file": "references/originals/Queens Venture Capital Planning Document.pdf",
+      "format": "PDF",
+      "sourceStatus": "context",
+      "note": "Title-matched proposal for Appendix A and B. A proposed women-led development pathway. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "cbd502197f1b30791141ddfcdb538806b8e26da5271292cc23f6f1ba0e69bb00",
+      "size": 403297,
+      "originalFilename": "Queens Venture Capital Planning Document.pdf"
+    },
+    {
+      "id": "unga81",
+      "title": "UNGA81 Joyful Responsible Abundance Refined: New Reference Links",
+      "file": "references/originals/UNGA81_Joyful_Responsible_Abundance_Refined (New Reference Links).pdf",
+      "format": "PDF",
+      "sourceStatus": "context",
+      "note": "Title-matched personal proposal for Appendix A and B; not a United Nations endorsement. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14",
+      "size": 112210,
+      "originalFilename": "UNGA81_Joyful_Responsible_Abundance_Refined (New Reference Links).pdf"
+    },
+    {
+      "id": "ready-set-strategy",
+      "title": "Ready SET Co. Business Strategy Development",
+      "file": "references/originals/Ready_SET_Co._Business_Strategy_Development.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix B2. The timestamped PDF was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "73a70ac35e2e823f0caeb945b5ceeb09949ab9d9334319b86cdb1c22d9d7c02c",
+      "size": 69883,
+      "originalFilename": "Ready_SET_Co._Business_Strategy_Development.md"
+    },
+    {
+      "id": "setco-employment",
+      "title": "Straddie Employment and Training Company (SETCo)",
+      "file": "references/originals/Straddie Employment and Training Company (SETCo) S....pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF for Appendix B3. The timestamped edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "0e7a00e7509138db3e5f7c7ac73bddbbd68942e914e4f53789e7a6688edd0657",
+      "size": 539002,
+      "originalFilename": "Straddie Employment and Training Company (SETCo) S....pdf"
+    },
+    {
+      "id": "setco-compliance",
+      "title": "SETCo Business Setup and Compliance",
+      "file": "references/originals/SETCo_Business_Setup_and_Compliance.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix B4. The PDF edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "e378a397f2baeb49065b2901d4c584d316efc35fb7b25d18e305b438a8036558",
+      "size": 136545,
+      "originalFilename": "SETCo_Business_Setup_and_Compliance.md"
+    },
+    {
+      "id": "setco-pitch",
+      "title": "SETCo 2026 Pitch Plan Revision",
+      "file": "references/originals/SETCo 2026 Pitch Plan Revision.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF for Appendix B5. The timestamped edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "1be16446dc69d8dc6c8caee9dc9e1fd924826a65d5a3750560011960e73e0411",
+      "size": 293853,
+      "originalFilename": "SETCo 2026 Pitch Plan Revision.pdf"
+    },
+    {
+      "id": "ready-set-year-2",
+      "title": "A Comprehensive Year 2 Strategic Plan for the Ready SET Co. Ecosystem",
+      "file": "references/originals/Dual-Track_Aura_Strategy_&_Civic_Infrastructure.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown found by its internal Year 2 Strategic Plan heading. The timestamped Ready SET Co. Year 2 PDF in Appendix B5 was not located, and its quoted C-hour passages are not in this copy; edition equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "ef29fd96ad14c785e0fd6253750c38733dcf3020b7197a0ebdc28aec0ce11162",
+      "size": 47099,
+      "originalFilename": "Dual-Track_Aura_Strategy_&_Civic_Infrastructure.md"
+    },
+    {
+      "id": "ai-governance",
+      "title": "Spec-Driven AI Governance Architecture Australia",
+      "file": "references/originals/Spec-Driven_AI_Governance_Architecture_Australia.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF for Appendix B6. The numbered PDF edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "94f5c0ca2bdd6623b972173b2561ed3b5c41fc6b9d2eb48f3e2812fd475f1266",
+      "size": 421329,
+      "originalFilename": "Spec-Driven_AI_Governance_Architecture_Australia.pdf"
+    },
+    {
+      "id": "local-government",
+      "title": "Local Government Funding Inquiry Submission",
+      "file": "references/originals/Local Government 2Funding Inquiry Submission.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched supplied submission for Appendix B6. The timestamped edition was not located. No correction of a public parliamentary record is implied. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "06e5d3e4f3c9bfb14a9d2439b9117e00a24176c4a2c6de9e9b18eeb187234d80",
+      "size": 276605,
+      "originalFilename": "Local Government 2Funding Inquiry Submission.pdf"
+    },
+    {
+      "id": "virtual-time",
+      "title": "Virtual Minjerribah: Time Simulations and Data",
+      "file": "references/originals/Virtual_Minjerribah__Time_Simulations_&_Data.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix B7. The timestamped PDF was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "1bc23c39ac8374f02963bb08e0fc996a54778177fd76d64037e60f89d9563595",
+      "size": 43643,
+      "originalFilename": "Virtual_Minjerribah__Time_Simulations_&_Data.md"
+    },
+    {
+      "id": "shared-table",
+      "title": "Shared Table Initiative",
+      "file": "references/originals/Shared Table Initiative.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Title-matched Markdown for Appendix B9. The timestamped PDF was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "03f6e5308c14b31f4b11561bf372cea66b90e01ccaffc37764969c68d962a6f0",
+      "size": 43703,
+      "originalFilename": "Shared Table Initiative.md"
+    },
+    {
+      "id": "queensland-surge",
+      "title": "Queenslands Heart-First AI Surge Plan",
+      "file": "references/originals/Queenslands Heart-First Ai Surge Plan.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF for Appendix B10. The timestamped edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "2bb82584c3a47e997df873dc7f74e2f93580df3fea0b51c69f6a207bca34286e",
+      "size": 284688,
+      "originalFilename": "Queenslands Heart-First Ai Surge Plan.pdf"
+    },
+    {
+      "id": "olympic-space",
+      "title": "Australia's Olympic Space Gambit",
+      "file": "references/originals/Australia's Olympic Space Gambit.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF for Appendix B10. The timestamped edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "de5ec2c7ae701ddc9c99aff4f20f044aad0f8315f7f516be79f98102c25907f6",
+      "size": 282556,
+      "originalFilename": "Australia's Olympic Space Gambit.pdf"
+    },
+    {
+      "id": "gajra-summit",
+      "title": "GAJRA Earth-Space-AI Summit",
+      "file": "references/originals/GAJRA Earth-Space-AI Summit.pdf",
+      "format": "PDF",
+      "sourceStatus": "historical source",
+      "note": "Title-matched PDF for Appendix B10. The timestamped edition was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "e11a6edaf53a869e8c404ebf7dc89fecfeb83cdba511bbed6c10a454f46e4c40",
+      "size": 302380,
+      "originalFilename": "GAJRA Earth-Space-AI Summit.pdf"
+    },
+    {
+      "id": "virtual-design",
+      "title": "Virtual Minjerribah Design Document",
+      "file": "references/originals/Virtual_Minjerribah_Design_Document.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix B13. The PDF was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "4f927c7dd9d94386ea679116343797dbfbe910b4ff3428825ee2678b62978275",
+      "size": 57355,
+      "originalFilename": "Virtual_Minjerribah_Design_Document.md"
+    },
+    {
+      "id": "simulation-engine",
+      "title": "Generative Simulation Engine and Asset Pipeline for Quandamooka Country",
+      "file": "references/originals/Generative_Simulation_Engine_&_Asset_Pipeline_for_Quandamooka_Country.md",
+      "format": "MD",
+      "sourceStatus": "historical source",
+      "note": "Related Markdown edition for Appendix B13. The PDF was not located; equivalence is unverified. Read with Appendix B of the current plan, which takes precedence over conflicting historical wording.",
+      "sha256": "e673f761ccf8480f40c6560b998dedbbde136e8a1a141068738290a810f3ec30",
+      "size": 83034,
+      "originalFilename": "Generative_Simulation_Engine_&_Asset_Pipeline_for_Quandamooka_Country.md"
+    }
+  ],
+  "links": [
+    {
+      "id": "rId8",
+      "relationshipId": "rId8",
+      "title": "Community Ledger",
+      "displayText": "Community Ledger",
+      "url": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+      "context": "Community Ledger",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId9",
+      "relationshipId": "rId9",
+      "title": "Project Atlas",
+      "displayText": "Project Atlas",
+      "url": "https://github.com/auraofintelligence/project-atlas",
+      "context": "Project Atlas",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId10",
+      "relationshipId": "rId10",
+      "title": "Events Engine",
+      "displayText": "Events Engine",
+      "url": "https://github.com/auraofintelligence/quandamooka-country-events-engine",
+      "context": "Events Engine",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId11",
+      "relationshipId": "rId11",
+      "title": "Digital Twin Explainer",
+      "displayText": "Digital Twin Explainer",
+      "url": "https://github.com/auraofintelligence/straddie-digital-twin-explainer",
+      "context": "Digital Twin Explainer",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId12",
+      "relationshipId": "rId12",
+      "title": "Straddie Twins",
+      "displayText": "Straddie Twins",
+      "url": "https://auraofintelligence.github.io/straddie-twins/index.html",
+      "context": "Straddie Twins",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId13",
+      "relationshipId": "rId13",
+      "title": "Aura Matrix Studio",
+      "displayText": "Aura Matrix Studio",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio",
+      "context": "Aura Matrix Studio",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId14",
+      "relationshipId": "rId14",
+      "title": "Mutual Futures",
+      "displayText": "Mutual Futures",
+      "url": "https://auraofintelligence.github.io/mutual-futures/index.html",
+      "context": "Mutual Futures",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId15",
+      "relationshipId": "rId15",
+      "title": "Work and life",
+      "displayText": "Work and life",
+      "url": "https://auraofintelligence.github.io/mutual-futures/workforce.html",
+      "context": "Work and life",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId16",
+      "relationshipId": "rId16",
+      "title": "Intelligence and income",
+      "displayText": "Intelligence and income",
+      "url": "https://auraofintelligence.github.io/mutual-futures/livelihoods.html",
+      "context": "Intelligence and income",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId17",
+      "relationshipId": "rId17",
+      "title": "Business succession",
+      "displayText": "Business succession",
+      "url": "https://auraofintelligence.github.io/mutual-futures/succession.html",
+      "context": "Business succession",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId18",
+      "relationshipId": "rId18",
+      "title": "Longer horizons and archive",
+      "displayText": "Longer horizons and archive",
+      "url": "https://auraofintelligence.github.io/mutual-futures/library.html",
+      "context": "Longer horizons and archive",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId19",
+      "relationshipId": "rId19",
+      "title": "Cultural intelligence node",
+      "displayText": "Cultural intelligence node",
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
+      "context": "Cultural intelligence node",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId20",
+      "relationshipId": "rId20",
+      "title": "Multi-site network",
+      "displayText": "Multi-site network",
+      "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/index.html",
+      "context": "Multi-site network",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId21",
+      "relationshipId": "rId21",
+      "title": "Clean energy",
+      "displayText": "Clean energy",
+      "url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
+      "context": "Clean energy",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId22",
+      "relationshipId": "rId22",
+      "title": "Community wealth and mutuals",
+      "displayText": "Community wealth and mutuals",
+      "url": "https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals",
+      "context": "Community wealth and mutuals",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId23",
+      "relationshipId": "rId23",
+      "title": "Grants Lab",
+      "displayText": "Grants Lab",
+      "url": "https://github.com/auraofintelligence/stradbroke-grants-lab",
+      "context": "Grants Lab",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId24",
+      "relationshipId": "rId24",
+      "title": "P4A",
+      "displayText": "P4A",
+      "url": "https://p4a.xyz",
+      "context": "P4A",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId25",
+      "relationshipId": "rId25",
+      "title": "Australia collection",
+      "displayText": "Australia collection",
+      "url": "https://github.com/auraofintelligence/p4a-xyz-cinema",
+      "context": "Australia collection",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId26",
+      "relationshipId": "rId26",
+      "title": "Oceania collection",
+      "displayText": "Oceania collection",
+      "url": "https://github.com/auraofintelligence/p4a-oceania-cinema",
+      "context": "Oceania collection",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId27",
+      "relationshipId": "rId27",
+      "title": "Native Nations collection",
+      "displayText": "Native Nations collection",
+      "url": "https://github.com/auraofintelligence/p4a-native-nations-cinema",
+      "context": "Native Nations collection",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId28",
+      "relationshipId": "rId28",
+      "title": "GAJRA collection",
+      "displayText": "GAJRA collection",
+      "url": "https://github.com/auraofintelligence/gajra-earth-claude-build",
+      "context": "GAJRA collection",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId29",
+      "relationshipId": "rId29",
+      "title": "Screen Media Network",
+      "displayText": "Screen Media Network",
+      "url": "https://github.com/auraofintelligence/minjerribah-screen-media-network",
+      "context": "Screen Media Network",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId30",
+      "relationshipId": "rId30",
+      "title": "Spirit Animal Podcast",
+      "displayText": "Spirit Animal Podcast",
+      "url": "https://auraofintelligence.github.io/spirit-animal-podcast/",
+      "context": "Spirit Animal Podcast",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId31",
+      "relationshipId": "rId31",
+      "title": "Documentary builders",
+      "displayText": "Documentary builders",
+      "url": "https://auraofintelligence.github.io/film-club-documentary-builders/",
+      "context": "Documentary builders",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId32",
+      "relationshipId": "rId32",
+      "title": "Grain by Grain",
+      "displayText": "Grain by Grain",
+      "url": "https://auraofintelligence.github.io/grain-by-grain-documentary/index.html",
+      "context": "Grain by Grain",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId33",
+      "relationshipId": "rId33",
+      "title": "Production tools",
+      "displayText": "Production tools",
+      "url": "https://auraofintelligence.github.io/davinci-resolve-automations/index.html",
+      "context": "Production tools",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId34",
+      "relationshipId": "rId34",
+      "title": "Infinity Engine",
+      "displayText": "Infinity Engine",
+      "url": "https://auraofintelligence.github.io/infinity-engine/",
+      "context": "Infinity Engine",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "rId35",
+      "relationshipId": "rId35",
+      "title": "Wider project index",
+      "displayText": "Wider project index",
+      "url": "https://auraofintelligence.github.io/index.html",
+      "context": "Wider project index",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "P1",
+      "relationshipId": "rId36",
+      "title": "Luke Nathan Hayes, Mutual Futures, September 2026 public workbench. The introduction, Business Succession, Work and Life, Intelligence and Income, and Aura and Intelligence chapters were read for this edition. They are primary sources for the proposed architecture, not independent proof of delivery.",
+      "displayText": "Open referenced source",
+      "url": "https://auraofintelligence.github.io/mutual-futures/index.html",
+      "context": "P1. Luke Nathan Hayes, Mutual Futures, September 2026 public workbench. The introduction, Business Succession, Work and Life, Intelligence and Income, and Aura and Intelligence chapters were read for this edition. They are primary sources for the proposed architecture, not independent proof of delivery.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "E1",
+      "relationshipId": "rId37",
+      "title": "Jobs and Skills Australia, Our Gen AI Transition, Exposure. Explains task exposure, augmentation, automation and the role of adoption and workplace adaptation",
+      "displayText": "Open referenced source",
+      "url": "https://www.jobsandskills.gov.au/studies/generative-artificial-intelligence-capacity-study/our-gen-ai-transition-exposure",
+      "context": "E1. Jobs and Skills Australia, Our Gen AI Transition, Exposure. Explains task exposure, augmentation, automation and the role of adoption and workplace adaptation. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "E2",
+      "relationshipId": "rId38",
+      "title": "National AI Centre and CSIRO, Australia's artificial intelligence ecosystem, growth and opportunities. The report describes Australian AI businesses, research, skills and geographic concentration. The linked publication was posted on 22 April 2026 and draws on earlier data; it is not a live employment count",
+      "displayText": "Open referenced source",
+      "url": "https://www.ai.gov.au/news-and-insights/reports/australias-artificial-intelligence-ecosystem-growth-and-opportunities",
+      "context": "E2. National AI Centre and CSIRO, Australia's artificial intelligence ecosystem, growth and opportunities. The report describes Australian AI businesses, research, skills and geographic concentration. The linked publication was posted on 22 April 2026 and draws on earlier data; it is not a live employment count. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "E3",
+      "relationshipId": "rId39",
+      "title": "National Health and Medical Research Council, National Statement on Ethical Conduct in Human Research 2025, effective 23 June 2026. This is a reference for developing research arrangements, not evidence of approval for an Aura project",
+      "displayText": "Open referenced source",
+      "url": "https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2025",
+      "context": "E3. National Health and Medical Research Council, National Statement on Ethical Conduct in Human Research 2025, effective 23 June 2026. This is a reference for developing research arrangements, not evidence of approval for an Aura project. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "E4",
+      "relationshipId": "rId40",
+      "title": "Australian Bureau of Statistics, How Australians use their time, 2024. Participant averages for people aged 15 and over; methodological changes limit comparisons with earlier surveys",
+      "displayText": "Open referenced source",
+      "url": "https://www.abs.gov.au/statistics/people/people-and-communities/how-australians-use-their-time/2024",
+      "context": "E4. Australian Bureau of Statistics, How Australians use their time, 2024. Participant averages for people aged 15 and over; methodological changes limit comparisons with earlier surveys. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "E5",
+      "relationshipId": "rId41",
+      "title": "International Labour Organization, ILO calls for urgent action to prevent looming global care crisis, 28 June 2018. Reports the 64-country estimate of 16.4 billion daily hours of unpaid care",
+      "displayText": "Open referenced source",
+      "url": "https://www.ilo.org/resource/news/ilo-calls-urgent-action-prevent-looming-global-care-crisis",
+      "context": "E5. International Labour Organization, ILO calls for urgent action to prevent looming global care crisis, 28 June 2018. Reports the 64-country estimate of 16.4 billion daily hours of unpaid care. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "E6",
+      "relationshipId": "rId42",
+      "title": "World Health Organization, Mental health at work. Estimates annual working days and productivity lost to depression and anxiety",
+      "displayText": "Open referenced source",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
+      "context": "E6. World Health Organization, Mental health at work. Estimates annual working days and productivity lost to depression and anxiety. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "S1",
+      "relationshipId": "rId43",
+      "title": "MDN, Progressive web apps. Technical context for a shared web application with installation and selected offline capabilities",
+      "displayText": "Open referenced source",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps",
+      "context": "S1. MDN, Progressive web apps. Technical context for a shared web application with installation and selected offline capabilities. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "S2",
+      "relationshipId": "rId44",
+      "title": "PostgreSQL documentation, Row Security Policies. Technical context for restricting record access; this alone does not establish personal data sovereignty",
+      "displayText": "Open referenced source",
+      "url": "https://www.postgresql.org/docs/current/ddl-rowsecurity.html",
+      "context": "S2. PostgreSQL documentation, Row Security Policies. Technical context for restricting record access; this alone does not establish personal data sovereignty. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "S3",
+      "relationshipId": "rId45",
+      "title": "Ollama documentation. Candidate runtime for local model experiments; model and hardware suitability require evaluation",
+      "displayText": "Open referenced source",
+      "url": "https://docs.ollama.com/",
+      "context": "S3. Ollama documentation. Candidate runtime for local model experiments; model and hardware suitability require evaluation. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    },
+    {
+      "id": "S4",
+      "relationshipId": "rId46",
+      "title": "GitHub documentation, Understanding GitHub Actions. Technical context for automated build and test workflows",
+      "displayText": "Open referenced source",
+      "url": "https://docs.github.com/en/actions/get-started/understand-github-actions",
+      "context": "S4. GitHub documentation, Understanding GitHub Actions. Technical context for automated build and test workflows. Accessed 23 September 2026.",
+      "sourceStatus": "context"
+    }
+  ],
+  "missing": [
+    {
+      "title": "Political Ethics, Technology, and Australian Law",
+      "citedAs": "Political Ethics, Technology, and Australian Law(20260919-033841).pdf",
+      "planLocation": "Appendix B6",
+      "status": "not located",
+      "note": "No title-matched source located in the requested search folders."
+    },
+    {
+      "title": "Legislative Strategy for Regenerative Assets",
+      "citedAs": "Legislative Strategy for Regenerative Assets(20260919-033619).pdf",
+      "planLocation": "Appendix B7",
+      "status": "not located",
+      "note": "No title-matched source located. The Australian C-Hour Legislative Strategy is a separate related work, not an asserted replacement."
+    },
+    {
+      "title": "Australian Community Project Rollout Plan",
+      "citedAs": "Australian Community Project Rollout Plan.pdf",
+      "planLocation": "Appendix B9",
+      "status": "not located",
+      "note": "No title-matched source located in the requested search folders."
+    },
+    {
+      "title": "Local Islands Narrative Strategy",
+      "citedAs": "Local Islands Narrative Strategy(20260919-025101).pdf",
+      "planLocation": "Appendix B9",
+      "status": "not located",
+      "note": "No title-matched source located in the requested search folders."
+    }
+  ],
+  "editionNote": "The historical PDF timestamps and numbered filenames in Appendix B often differ from the available local files. Each document note identifies title or related-format matches; no unverified edition equivalence is claimed."
+}
